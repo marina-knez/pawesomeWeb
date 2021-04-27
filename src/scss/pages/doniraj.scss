@@ -1,0 +1,36 @@
+.donate-page {
+    padding: 8px;
+    text-align: center;
+}
+
+.main-section-02 {
+    background-color: map-get($colors, --clr-primary, 300);
+    border-radius: 8px;
+    width: 100%;
+    transition: all .4s ease;
+
+    @include tablet-landscape {
+        width: 60%;
+        position: relative;
+        left: 20%;
+    }
+}
+
+.donate-page__subtitle {
+    font-weight: bold;
+}
+
+.donate-page-list,
+.donate-page__item {
+    color: map-get($colors, --clr-neutral, grey-200);
+}
+
+.donate-page-list__item {
+    padding-bottom: 8px;
+}
+
+.text-color--accent {
+    color: map-get($colors, --clr-accent-purple, 300);
+    font-weight: bold;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+  <link rel="stylesheet" href="./dist/css/styles.css">
+  <title>Udruga pobjede</title>
+</head>
+<body>
+  <header class="header">
+    <div class="header__content">
+      <img src="./src/assets/background-logo/logo-00.jpg" alt="Udruga pobjede logo" class="header__img">
+      <h1 class="header__logo">
+        <a href="./index.html">Udruga pobjede</a>
+      </h1>
+
+      <ul class="header header__icons">
+        <li class="header__icon">
+          <button class="button--no-styles">
+            <i class="fas fa-home"></i>
+          </button>
+        </li>
+
+        <li class="header__icon">
+          <button class="button--no-styles visually-hidden--desktop">
+            <i class="fas fa-paw"></i>
+          </button>
+        </li>
+      </ul>
+    </div>
+
+    <section class="home-cart">
+      <h2 class="home-cart__title">Home Cart</h2>
+
+      <button class="button--no-styles form-button">
+        <i class="fas fa-times home-cart__close-button"></i>
+      </button>
+
+      <ol class="home-cart__dog-list">
+     
+      </ol>
+      <div class="cart-miscellaneous">
+        <button class="button button--primary home-cart__checkout-btn"><a href="./checkout.html" class="home-cart__checkout-btn">Udomi</a></button>
+      </div>
+    </section>
+
+    <nav class="menu-nav">
+      <i class="fas fa-times close-navigation visually-hidden--desktop"></i>
+      <ul class="navigation">
+        <li class="navigation__item"><a href="./index.html">Naslovna</a></li>
+        <li class="navigation__item">
+          <a href="./o-nama.html">O nama</a>
+          <label for="btn-1" class="show"><i class="fas fa-plus visually-hidden--desktop"></i></label>
+          <input type="checkbox" name="btn-1" id="btn-1" class="">
+          <ul class="navigation__sub-menu">
+            <li class="navigation__sub-menu-item item--narrow"><a href="./volontiranje.html">Volontiranje</a></li>
+          </ul>
+        </li>
+        <li class="navigation__item">
+          <a href="./azil.html">Azil</a>
+          <label for="btn-2" class="show"><i class="fas fa-plus visually-hidden--desktop"></i></label>
+          <input type="checkbox" name="btn-2" id="btn-2" class="">
+          <ul class="navigation__sub-menu">
+            <li class="navigation__sub-menu-item"><a href="./bebe-azila.html">Bebe azila</a></li>
+            <li class="navigation__sub-menu-item"><a href="./udomi-me-živim-u-azilu.html">Udomi me, živim u Azilu</a></li>
+            <li class="navigation__sub-menu-item"><a href="./udomljavanje-psa-iz-azila.html">Udomljavanje psa iz Azila</a></li>
+          </ul>
+        </li>
+        <li class="navigation__item">
+          <a href="./blog.html">Blog</a>
+          <label for="btn-3" class="show"><i class="fas fa-plus visually-hidden--desktop"></i></label>
+          <input type="checkbox" name="btn-3" id="btn-3" class="">
+          <ul class="navigation__sub-menu">
+            <li class="navigation__sub-menu-item"><a href="./blog.html">Kedikom po svijetu</a></li>
+            <li class="navigation__sub-menu-item"><a href="./dnevnik-pobjeda.html">Dnevnik pobjeda</a></li>
+          </ul>
+        </li>
+        <li class="navigation__item">
+          <a href="./ostalo.html">Ostalo</a>
+          <label for="btn-4" class="show"><i class="fas fa-plus visually-hidden--desktop"></i></label>
+          <input type="checkbox" name="btn-4" id="btn-4" class="">
+          <ul class="navigation__sub-menu">
+            <li class="navigation__sub-menu-item  item--wide"><a href="./ostalo.html">Prijavljivanje zlostavljanja životinja</a></li>
+            <li class="navigation__sub-menu-item  item--wide"><a href="./prijavi-pronađenu-ili-izgubljenu-životinju.html">Prijavi pronađenu ili izgubljenu životinju</a></li>
+          </ul>
+        </li>
+        <li class="navigation__item"><a href="./pristupnica.html">Pristupnica</a></li>
+        <li class="navigation__item"><a href="./doniraj.html">Doniraj</a></li>
+        <li class="navigation__item"><a href="./kontakti.html">Kontakti</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="content--margin-top">
+    <h2 class="content__title">Zakonska osnova i obrazac prijave zlostavljanja životinja</h2>
+    <p class="content__subtitle">Iz  Zakona o zaštiti životinja (dalje u tekstu: Zakon)</p>
+    <p class="content__subtitle">(Narodne novine br. 102/17, na snazi od 26. listopada 2017. godine)</p>
+
+    <section class="content">
+      <h3 class="content__list-title">Pojmovi u smislu ovog Zakona</h3>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>izgubljena životinja je životinja koja je odlutala od vlasnika i on je traži</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>kućni ljubimci su životinje koje čovjek drži zbog društva, zaštite i pomoći ili zbog zanimanja za te životinje</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>nadležno tijelo je ministarstvo nadležno za poslove veterinarstva (ministarstvo poljoprivrede)</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>napuštena životinja je životinja koju je vlasnik svjesno napustio, kao i životinja koju je napustio zbog više sile kao što su bolest, smrt ili gubitak slobode te životinja koje se vlasnik svjesno odrekao</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>posjednik životinje je svaka pravna ili fizička osoba koja je kao vlasnik ili skrbnik stalno ili privremeno odgovorna za zdravlje i dobrobit životinje</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h3 class="content__list-title">Zabranjeni postupci u svrhu zaštite životinja</h3>
+      <h4 class="content__list-title">Zabranjeno je životinje:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>usmrćivati</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>nanositi im bol, patnju i ozljede</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>namjerno ih izlagati strahu i bolestima</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uzgajati životinje tako da trpe bol, patnju i strah te ih namjerno ozljeđivati</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>huškati životinje na druge životinje ili čovjeka ili ih obučavati na agresivnost</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zanemarivati životinje s obzirom na njihovo zdravlje, smještaj, ishranu i njegu</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zabranjeno je trčanje životinja privezanih uz motorno prijevozno sredstvo koje je u pokretu</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h3 class="content__list-title">Zaštita životinje pri držanju i uzgoju</h3>
+      <h4 class="content__list-title">Zabranjeno je:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>napustiti domaću životinju, kućnog ljubimca ili uzgojenu divlju životinju i druge životinje koje se drži pod nadzorom</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>davanje kućnih ljubimaca maloljetnim osobama</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h4 class="content__list-title">Posjednik mora:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>pravodobno zatražiti veterinarsku pomoć i osigurati zbrinjavanje bolesnih ili ozlijeđenih životinja, veterinarsku pomoć pri porodu ako je potrebna i osigurati odgovarajuću njegu bolesnih, ozlijeđenih i iscrpljenih životinja</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h4 class="content__list-title">Obveza pružanja pomoći životinji</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>svatko tko ozlijedi životinju mora joj pružiti potrebnu pomoć, a ako to nije u mogućnosti sam učiniti, mora joj osigurati pružanje pomoći</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ako nije moguće utvrditi tko je ozlijedio životinju, pružanje potrebne pomoći životinjama mora organizirati i financirati jedinica lokalne samouprave na čijem je području životinja ozlijeđena</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ako se utvrdi vlasnik ozlijeđene životinje troškove pružanja pomoći snosi vlasnik</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h3 class="content__list-title">Zaštita kućnih ljubimaca</h3>
+      <h4 class="content__list-title">Zabranjeno je:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>davanje kućnih ljubimaca maloljetnim osobama</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h4 class="content__list-title">Uvjeti držanja kućnih ljubimaca</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>kućnim ljubimcima moraju se osigurati uvjeti držanja u skladu s njihovim potrebama</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zabranjeno je držanje i postupanje s kućnim ljubimcima na način koji ugrožava zdravlje i sigurnost ljudi, posebice djece te životinja</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zabranjeno je držati pse stalno vezane ili ih držati u prostorima za odvojeno držanje pasa bez omogućavanja slobodnog kretanja izvan tog prostora.</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Kontrola razmnožavanja kućnih ljubimaca</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>vlasnici kućnih ljubimaca moraju osigurati kontrolu razmnožavanja životinja pod njihovim nadzorom</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>vlasnici moraju zbrinuti mladunčad vlastitih kućnih ljubimaca</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ako vlasnici kućnih ljubimaca sami ne žele zbrinuti mladunčad kućnih ljubimaca, snose troškove njihova zbrinjavanja, a u slučaju pasa i troškove njihove trajne sterilizacije</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ako vlasnici kućnih ljubimaca ne zbrinjavaju mladunčad kućnih ljubimaca, veterinarski inspektor po utvrđivanju napuštanja mladunčadi vlastitog kućnog ljubimca, vlasniku može odrediti mjeru trajne sterilizacije kućnog ljubimca, a na trošak vlasnika</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Uzgoj kućnih ljubimaca namijenjenih prodaji</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uzgoji kućnih ljubimaca namijenjenih prodaji ne mogu započeti obavljati djelatnost bez rješenja o registraciji uzgoja koje donosi Ministarstvo poljoprivrede</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>Ministarstvo poljoprivrede vodi upisnik uzgoja te ga objavljuje na svojim mrežnim stranicama</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Napuštene i izgubljene životinje</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>vlasnik kućnog ljubimca mora u roku od 3 dana od dana gubitka kućnog ljubimca prijaviti njegov nestanak skloništu za životinje, a u roku od 14 dana od dana gubitka psa veterinarskoj organizaciji ili ambulanti veterinarske prakse koja je ovlaštena za vođenje Upisnika kućnih ljubimaca</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>nalaznik napuštene ili izgubljene životinje mora u roku od 3 dana od nalaska životinje obavijestiti sklonište, osim ako je životinju u tom roku vratio vlasniku</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Zabrana prodaje životinja i oglašavanje</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zabranjeno je prodavati pse, mačke i pitome vretice u trgovinama za prodaju kućnih ljubimaca</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zabranjeno je prodavati životinje koje su još ovisne o majci ili koje se ne mogu samostalno hraniti te bolesne ili ozlijeđene životinje</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>pri oglašavanju pasa u svrhu prodaje ili promjene vlasništva prodavač mora osigurati, a oglašivač mora objaviti broj mikročipa psa i broj mikročipa majke psa</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Obveze jedinica lokalne samouprave</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>jedinice lokalne samouprave dužne su do 30. lipnja 2018. godine osigurati nadzor provedbe obveznog mikročipiranja pasa određenog propisom o veterinarstvu, kod posjednika pasa čiji psi nisu upisani u Upisnik kućnih ljubimaca.</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>nadzor ove obveze provode komunalni redari</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Ovlasti komunalnog redara</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>pregledati isprave na temelju kojih se može utvrditi identitet stranke i drugih osoba nazočnih nadzoru</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ući u prostore/prostorije u kojima se drže kućni ljubimci</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uzimati izjave stranaka i drugih osoba</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zatražiti od stranke podatke i dokumentaciju</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>prikupljati dokaze na vizualni i drugi odgovarajući način</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>očitati mikročip</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>obavljati druge radnje u skladu sa svrhom nadzora</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>podnositi kaznenu prijavu ili optužni prijedlog</li>
+      </ul>
+      <p>Ako komunalni redar u nadzoru utvrdi povredu zakona iz svoje nadležnosti, ima pravo i obvezu naplatiti novčanu kaznu.</p>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Nadzor nad provedbom zakona i inspekcijski nadzor, te pomoć pri obavljanju nadzora</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>upravni nadzor nad provedbom Zakona i propisa donesenih na temelju njega obavlja Ministarstvo poljoprivrede</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>inspekcijski nadzor u provođenju ovoga Zakona i propisa donesenih na temelju njega provode veterinarski inspektori</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>nadzor nad provedbom općih akata provode komunalni redari</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>policija, prema svojim ovlastima, pruža pomoć ovlaštenom podnositelju zahtjeva – nadležnom inspektoru odnosno komunalnom redaru ako se prilikom provođenja nadzora ili izvršenja rješenja opravdano očekuje pružanje otpora, sukladno posebnim propisima</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>nadležni veterinarski inspektor tijekom provođenja inspekcijskog nadzora u slučaju sumnje na postupanje protivno odredbama ovoga Zakona i propisa donesenih na temelju njega ovlašten je pregledati objekte na gospodarstvu, prostore, prostorije, opremu i prijevozna sredstva</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h3 class="content__list-title">Ovlasti inspektora</h3>
+      <h4 class="content__list-title">Nadležni veterinarski inspektor, uz ovlasti određene propisom o veterinarstvu, u provođenju inspekcijskog nadzora ovlašten je:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zabraniti postupanje protivno odredbama ovoga Zakona</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>narediti mjere za uklanjanje utvrđenih nepravilnosti u određenom roku</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>posjedniku privremeno oduzeti životinju koja se nalazi u stanju na temelju kojega se može zaključiti da životinja trpi bol, patnju ili veliki strah, da je ozlijeđena ili da bi nastavak njezina života u istim uvjetima bio povezan s neotklonjivom boli, patnjom ili velikim strahom te životinju koju posjednik drži u neprimjerenim uvjetima</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>privremeno oduzeti dokumentaciju i predmete koji u prekršajnom ili kaznenom postupku mogu poslužiti kao dokaz</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>podnositi prijavu sukladno odredbama kaznenog odnosno prekršajnog zakona</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h3 class="content__list-title">Novčane kazne iz Zakona o zaštiti životinja</h3>
+      <h4 class="content__list-title">Novčanom kaznom od 1000 do 2000 kuna kaznit će se fizička osoba ako:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>daje žive životinje kao nagrade u igrama na sreću</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>izlaže pse s kupiranim ušima i repovima, osim lovačkih pasa</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ne da usmrtiti životinju koja trpi jaku i neotklonjivu bol</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ne prijavi gubitak kućnog ljubimca u roku od 3 dana te gubitak psa u roku od 14 dana (vlasnik kućnog ljubimca mora u roku od 3 dana od gubitka kućnog ljubimca prijaviti njegov nestanak skloništu za životinje, a u roku od 14 dana od dana gubitka psa veterinarskoj organizaciji ili ambulanti veterinarske prakse koja je ovlaštena za vođenje Upisnika kućnih ljubimaca)</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ne prijavi nalazak životinje u roku od tri dana (nalaznik napuštene ili izgubljene životinje mora u roku od tri dana od nalaska životinje obavijestiti sklonište, osim ako je životinju u tom roku vratio vlasniku)</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>pri oglašavanju pasa u svrhu prodaje ili promjene vlasništva ne objavi broj mikročipa psa i broj mikročipa majke</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Novčanom kaznom od 10.000 do 30.000 kuna kaznit će se za prekršaj fizička osoba ako:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>spolno opći sa životinjom ili na drugi način zadovoljava spolne potrebe pomoću životinje (može se izreći i oduzimanje kućnog ljubimca i zaštitna mjera zabrane držanja i nabavljanja druge životinje)</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>baci petarde na životinje</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Novčanom kaznom od 15.000 do 30.000 kuna kaznit će se fizička osoba ako:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>organizira utrke pasa</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>zanemaruje životinje s obzirom na njihovo zdravlje, smještaj, ishranu i njegu</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>napusti domaću životinju, kućnog ljubimca ili uzgojenu divlju životinju</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>pravodobno ne zatraži veterinarsku pomoć i zbrinjavanje bolesnih ili ozlijeđenih životinja ili veterinarsku pomoć pri porodu, ako je potrebna ili odgovarajuću njegu bolesnih, ozlijeđenih i iscrpljenih životinja</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>životinji koju je ozlijedila ne pruži potrebnu pomoć, a ako to nije u mogućnosti sama učiniti, mora joj osigurati pružanje pomoći</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>proda ili daje kućne ljubimce maloljetnim osobama</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ne zbrine mladunčad vlastitih kućnih ljubimaca</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uzgaja kućne ljubimce namijenjene prodaji bez rješenja</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>drži kućne ljubimce namijenjene prodaji protivno pravilniku o uzgoju kućnih ljubimaca namijenjenih prodaji</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>prodaje kućne ljubimce koji ne potječu iz registriranih uzgoja</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Novčanom kaznom od 20.000 do 50.000 kuna kaznit će se za prekršaj fizička osoba ako:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uvozi i prodaje životinje koje potječu iz uzgoja u kojem životinje trpe bol, patnju i strah te ih se namjerno ozljeđuje</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>pri uzgoju životinja povećava agresivnost životinja selekcijom ili drugim metodama</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>huška životinje na druge životinje ili ih dresira na agresivnost</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>daje stimulanse ili druge nedopuštene tvari životinjama kako bi se poboljšao njihov nastup na sportskim natjecanjima ili na predstavama</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>koristi nedopuštene stimulanse i tvari u svrhu bržeg rasta i prirasta životnja te povećanja fizičkih performansi životinja</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uzgaja životinje u svrhu proizvodnje krzna</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>koristi za rasplod životnje koje nisu spolno zrele i koje nisu završile svoj rast ili životinje nakon odbijanja mladunčadi koje se još nisu oporavile ili koristi bolešću iscrpljene, ozlijeđene ili životinje koje nisu spremne za parenje</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>drži i postupa s kućnim ljubimcima na način koji ugrožava zdravlje i sigurnost ljudi, posebice djece te životinja</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>drži psa na način protivno pravilniku o opasnim pasminama</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Uz sljedeće prekršaje, osim novčane, može se izreći i oduzimanje životinje i zaštitna mjera zabrane držanja i nabavljanja druge životinje:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uvoz i prodaja životinja koje potječu iz uzgoja u kojem životinje trpe bol, patnju i strah te ih se namjerno ozljeđuje</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uzgoj životinja u svrhu proizvodnje krzna</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>držanje i postupanje s kućnim ljubimcima na način koji ugrožava zdravlje i sigurnost ljudi, posebice djece te životinja</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>držanje pasa protivno pravilniku o uvjetima i načinu držanja opasnih pasa </li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h3 class="content__subtitle">NAPUTAK O PRIJAVI TEMELJEM ZAKONA O ZAŠTITI ŽIVOTINJA:</h3>
+      <p>Prijavu zlostavljanja i/ili zanemarivanja životinje upućuje se za područje grada Osijeka i prigradskih naselja preporučenom pošiljkom s povratnicom (povratnicu čuvajte kao dokaz datuma predaje prijave) na sljedeću adresu:</p>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>Uprava za veterinarstvo i sigurnost hrane</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>Služba veterinarske inspekcije</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>Veterinarski ured Vukovar</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>Ispostava Osijek</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>Trg Lava Mirskog 3</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>31 000 Osijek</li>
+      </ul>
+      <p>Za ostale urede pogledati na: http://www.veterinarstvo.hr</p>
+      <p>Prijava treba sadržavati sve dostupne podatke o počinitelju ili vlasniku odnosno posjedniku životinje, eventualnim svjedocima koji mogu potvrditi navode iz prijave, kao i osobne podatke podnositelja prijave.</p>
+      <p>Ukoliko bi vlasnik zlostavljane ili zanemarivane životinje mogao ugroziti sigurnost podnositelja prijave ili svjedoka, potrebno je u prijavi zatražiti anonimnost podnositelja prijave i svjedoka.</p>
+      <p>U prijavi svakako zatražite da Vas se pisano izvijesti o rezultatima nadzora.</p>
+      <p>Prijavu je potrebno detaljno obrazložiti navodeći vrijeme, učestalosti, vrste kršenja zakona, te obavezno fotografijama ili videosnimkama, iskazima svjedoka, veterinarskom dokumentacijom i sl. kako bi se većim brojem dokaza protiv prekršitelja osiguralo primjenu zakonskih mjera.</p>
+      <p>Ogledni primjerak prijave nalazi se na kraju teksta.</p>
+    </section>
+
+    <section class="content">
+      <h2 class="content__title">Iz Kaznenog zakona:</h2>
+      <p class="content__subtitle">(Narodne novine br. 125/11, 144/12, 56/15, 61/15, 101/17 )</p>
+      <h4 class="content__list-title">Ubijanje ili mučenje životinja</h4>
+      <p class="content__list-title">Kaznom zatvora do jedne godine kaznit će se:</p>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>tko usmrti životinju bez opravdanog razloga ili je teško zlostavlja, nanosi joj nepotrebne boli ili je izlaže nepotrebnim patnjama</li>
+      </ul>
+      <p class="content__list-title">Kaznom zatvora do dvije godine kaznit će se:</p>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>tko gornje kazneno djelo počini iz koristoljublja</li>
+      </ul>
+      <p class="content__list-title">Kaznom zatvora do šest mjeseci te oduzimanjem životinje kaznit će se:</p>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>tko iz nehaja uskratom hrane ili vode ili na drugi način izloži životinju tegobnom stanju kroz dulje vrijeme</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Nesavjesno pružanje veterinarske pomoći</h4>
+      <p class="content__list-title">Kaznom zatvora do jedne godine kaznit će se:</p>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>veterinar ili veterinarski djelatnik koji se pri pružanju pomoći, pregledu, cijepljenju ili liječenju životinje ne pridržava pravila veterinarske struke pa zbog toga nastupi oboljenje, znatno pogoršanje bolesti ili uginuće životinje</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h3 class="content__subtitle">NAPUTAK O PRIJAVI TEMELJEM  KAZNENOG ZAKONA:</h3>
+      <p class="content__list-title">Usmrćivanje i/ili mučenje životinja prijavljuje se:</p>
+      <p>nadležnoj Policijskoj postaji</p>
+      <p>(postaje i telefoni dostupni na: www. osjecko-baranjska.policija.hr)</p>
+      <p>i/ili</p>
+      <p>direktno pisanom kaznenom prijavom</p>
+      <p>Općinskom državnom odvjetništvu</p>
+      <p>Kapucinska 21</p>
+      <p>31 000 Osijek</p>
+      <p>e-mail: odo-osijek@os.htnet.hr</p>
+      <p>(nadležnost za kaznena djela s područja općina Antunovac, Bilje, Bizovac, Čeminac, Čepin, Darda, Donja Motičina, Draž, Drenje, Đurđenovac, Erdut, Ernestinovo, Feričanci, Gorjani, Jagodnjak, Kneževi Vinogradi, Koška, Levanjska Varoš, Magadenovac, Marijanci, Petlovac, Petrijevci, Podgorač, Podravska Moslavina, Popovac, Punitovci, Satnica Đakovačka, Semeljci, Strizivojna, Šodolovci, Trnava, Viljevo, Viškovci, Vladislavci i Vuka te gradova: Beli Manastir, Belišće, Donji Miholjac, Đakovo, Našice, Osijek i Valpovo.)</p>
+      <p class="content__list-title">Napomena:</p>
+      <p>Sugeriramo da uvijek, ukoliko je riječ o usmrćivanju i/ili mučenju životinja, odmah  pozovete  policijske službenike koji će izaći na lice mjesta i spriječiti nastavak zlostavljanja te sačiniti službeni dokument koji može predstavljati dodatni dokaz.</p>
+      <p>Kaznenu prijavu uputite preporučenom pošiljkom s povratnicom, a povratnicu čuvajte kao dokaz datuma predaje prijave.</p>
+      <p>Za nesavjesno pružanje veterinarske pomoći, pisana prijava upućuje se na sljedeću adresu:</p>
+      <p>Hrvatska veterinarska komora</p>
+      <p>Heinzlova 55</p>
+      <p>10 000 Zagreb</p>
+    </section>
+
+    <section class="content">
+      <h3 class="content__title">Iz Zakona o veterinarstvu:</h3>
+      <p class="content__list-title">(Narodne novine br.82/13, 148/13)</p>
+      <h4 class="content__list-title">Pojmovi u smislu ovog Zakona</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>kućni ljubimci: životinje koje čovjek drži zbog društva, zaštite i pomoći ili zbog zanimanja za te životinje</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ministarstvo: ministarstvo nadležno za poslove poljoprivrede</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ministar: ministar nadležan za poslove poljoprivrede</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>posjednik životinje: svaka pravna ili fizička osoba koja je kao vlasnik, korisnik ili čuvar izravno odgovorna za zdravlje i dobrobit životinje</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>uprava: Uprava nadležna za poslove veterinarstva, ustrojstvena jedinica Ministarstva koja obavlja poslove službene veterinarske kontrole i nadzora nad provedbom veterinarskih propisa</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h4 class="content__list-title">Veterinarska djelatnost</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>fizičke i pravne osobe koje obavljaju veterinarsku djelatnost obvezne su na zahtjev posjednika životinja pružiti odgovarajuću veterinarsku skrb.</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Novčane kazne iz Zakona o veterinarstvu </h4>
+      <p>Novčanom kaznom od 10.000 do 30.000 kuna kaznit će se za prekršaj pravna osoba,</p>
+      <p>a novčanom kaznom od 2.000 do 6.000 kuna odgovorna osoba u pravnoj osobi te fizička osoba ako</p>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>odbije na zahtjev posjednika životinja pružiti odgovarajuću veterinarsku uslugu</li>
+      </ul>
+    </section>
+    <section class="content">
+      <h4 class="content__list-title">Novčanom kaznom od 2.000 do 6.000 kuna kaznit će se fizička osoba ako:</h4>
+      <ul class="content__list">
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ne označi psa mikročipom najkasnije 90 dana od dana štenjenja</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>pse, mačke i pitome vretice  koji su označeni ne upiše u Upisnik kućnih ljubimaca koji vodi Uprava</li>
+        <li class="content__list-item"><i class="fas fa-paw paw--list"></i>ako ne prijavi nabavu psa, odnosno ne odjavi psa u slučaju svakog gubitka posjeda životinje (nestanka, prodaje, darovanja, uginuća) u roku od 14 dana od nastalog događaja ovlaštenoj veterinarskoj organizaciji/ambulanti veterinarske prakse</li>
+      </ul>
+    </section>
+
+    <section class="content">
+      <h4 class="content__subtitle">NAPUTAK O PRIJAVI TEMELJEM ZAKONA O VETERINARSTVU:</h4>
+      <div class="content bg--frame">
+        <p>Osim Općinskom državnom odvjetništvu, pisana prijava  dostavlja se i</p>
+        <p>Hrvatskoj veterinarskoj komori na sljedeću adresu:</p>
+        <p>Hrvatska veterinarska komora</p>
+        <p>Heinzlova 55</p>
+        <p>10 000 Zagreb</p>
+        <p>e-mail: hvk@hvk.hr</p>
+      </div>
+    </section>
+
+    <section class="document">
+      <h3 class="content__title">OBRAZAC PRIJAVE</h3>
+      <div class="document__item content--right">
+        <p>Uprava za veterinarstvo i sigurnost hrane</p>
+        <p>Služba veterinarske inspekcije</p>
+        <p>Veterinarski ured Vukovar</p>
+        <p>Ispostava Osijek</p>
+        <p>Trg Lava Mirskog 3</p>
+        <p>31 000 Osijek</p>
+        <p class="document__item margin--top">Osijek, __________________</p>
+        <p class="document__item font--italic-grey">(datum)</p>
+      </div>
+      <div>
+        <p>PREDMET:  Prijava veterinarskoj inspekciji za provođenje nadzora protiv</p>
+        <p class="document__item margin--left"> __________________________________</p>
+        <p class="document__item margin--left margin--top-negative font--italic-grey">(ime i prezime, adresa)</p>
+        <p class="document__item center--align">Temeljem Zakona o zaštiti životinja (NN 102/17) podnosim ovu prijavu protiv ______________________ <i class="document__item font--italic-grey">(ime i prezime)</i> zbog:</p>
+        <p>_______________________________________________________________________________________________</p>
+        <p class="document__item margin--top-negative font--italic-grey">(opisati razloge prijave što je preciznije moguće, navodeći datume, vremena, imena eventualnih svjedoka s adresama).</p>
+        <p>Molimo da izlaskom na lice mjesta utvrdite stanje psa/pasa s obzirom na fizičko stanje, te uvjete držanja i uzgoja, odnosno jesu li nad istim provedene sve naređene mjere i jesu li propisno označeni.</p>
+        <p>Zahtijevamo da ukoliko veterinarskim nadzorom utvrdite počinjenje prekršaja ili kaznenog djela, podnesete zahtjev za pokretanje prekršajnog postupka ili kaznenu prijavu.</p>
+        <p>Molim da me o o rezultatima provedenog nadzora žurno izvijestite pisanim očitovanjem.</p>
+        <p class="document__item margin--top">Uz ovu prijavu prilažem sljedeće dokaze:</p>
+        <p class="document__item font--italic-grey">(navesti i priložiti fotografije i/ili videozapise, te eventualno druge dostupne dokaze)</p>
+        <p class="document__item margin--top">S poštovanjem,</p>
+        <p>_________________________________________________________</p>
+        <p class="document__item margin--top-negative font--italic-grey">(ime i prezime, adresa, kontakt telefon, mail)</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <section class="footer">
+      <h3>Pronjuškajte</h3>
+
+      <div class="footer--left" >
+        <ul class="footer--left__link-list">
+          <li>
+            <i class="fas fa-paw"></i>
+            <a class="footer__link" href="./index.html">Udruga pobjede</a>
+          </li>
+          <li>
+            <i class="fas fa-seedling"></i>
+            <a class="footer__link" href="https://superizazov22.com/">Super izazov 22</a>
+          </li>
+          <li>
+            <i class="fas fa-unlock-alt"></i>
+            <a class="footer__link" href="https://www.abovo-campaign.com/">Ab ovo kampanja</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer--right">
+        <ul class="">
+          <li><i class="far fa-envelope"></i>pobjede@gmail.com</li>
+          <li>
+            <i class="fab fa-facebook"></i>
+            <a class="footer__link" href="https://www.facebook.com/azil.osijekvolonteri">Azil Osijek - volonteri</a>
+          </li>
+          <li>
+            <i class="fab fa-facebook"></i>
+            <a class="footer__link" href="https://www.facebook.com/Udruga.Pobjede">Udruga Pobjede</a>
+          </li>
+          <li><i class="fas fa-mobile-alt"></i>Azil Osijek</li>
+        </ul>
+      </div>
+    </section>
+
+    <div class="copyright">
+      <small class="" tabindex="0"
+        >Copyright &reg; 2014 Udruga Pobjede - zaštita i promicanje prava životinja. All Rights Reserved.</small
+      >
+    </div>
+  </footer>
+  
+  <script src="build/app.bundle.js"></script>
+  <script src="./src/app.js"></script>
+</body>
+</html>

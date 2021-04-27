@@ -1,0 +1,77 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+ol {
+  margin: 0;
+}
+
+li {
+  margin-left: 12px;
+}
+
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+ul[class] {
+  @include list-reset;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  padding-top: $container-gutter;
+  padding-bottom: $container-gutter;
+}
+
+a {
+  text-decoration: none;
+  color: map-get($colors, --clr-neutral, off-white);
+  cursor: pointer;
+
+  &:hover {
+    color: map-get($colors, --clr-accent-green, 100);
+  }
+}
+
+input,
+button {
+  font: inherit;
+}
+
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+i {
+  color: map-get($colors, --clr-neutral, off-white);
+  cursor: pointer;
+
+  &:hover {
+      color: map-get($colors, --clr-accent-green, 100);
+    }
+}
+
+section {
+  margin-top: 1rem;
+}

@@ -1,0 +1,140 @@
+.fa-times {
+    color: map-get($colors, --clr-neutral, off-white);
+}
+
+.form-page {
+    @include desktop {
+        margin-top: 5rem;
+    }
+}
+
+.form-page__title {
+    text-align: center;
+}
+
+.form {
+    position: relative;
+    overflow: hidden;
+}
+
+.form-section {
+    background-color: map-get($colors, --clr-primary, 100);
+    border: 1px solid map-get($colors, --clr-neutral, grey-100);
+    border-top: 5px solid map-get($colors, --clr-primary, 300);
+    border-radius: 8px;
+    padding: 0 8px;
+    color: map-get($colors, --clr-neutral, grey-200);
+    margin-bottom: 1rem;
+    height: 100px;
+
+    &.height--larger {
+        height: 100%;
+        padding: 8px;
+    }
+
+    @include tablet-landscape {
+        height: 150px;
+        width: 60%;
+        position: relative;
+        left: 20%;
+    }
+}
+
+.form-input {
+    height: 80%;
+    width: 100%;
+    color: map-get($colors, --clr-neutral, grey-100);
+    background-color: map-get($colors, --clr-primary, 100);
+    padding-top: 20px;
+    border: none;
+    margin-top: 8px;
+    padding-bottom: 8px;
+    outline: none;
+
+    @include tablet-landscape {
+        font-size: 1.2rem;
+    }
+}
+
+.form-input + label {
+    width: 95%;
+    height: 8%;
+    position: absolute;
+    padding-top: 8px;
+    left: 8px;
+    pointer-events: none;
+    border-bottom: 1px solid map-get($colors, --clr-accent-purple, 200);
+
+    &::after {
+        content: '';
+        width: 100%;
+        position: absolute;
+        left: 0;
+        bottom: -1px;
+        border-bottom: 2px solid map-get($colors, --clr-accent-purple, 300);
+        transform: translateX(-110%);
+        transition: all .3s ease;
+    }
+
+    @include tablet-landscape {
+        height: 15%;
+        top: 50%;
+
+        &::after {
+            transform: translateX(-200%);
+        }
+    }
+}
+
+.content-name {
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    transition: all .3s ease;
+}
+
+.form-input:focus + .label-name .content-name,
+.form-input:valid + .label-name .content-name {
+    transform: translateY(-150%);
+    color: map-get($colors, --clr-accent-purple, 300);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.form-input:focus + .label-name::after,
+.form-input:valid + .label-name::after {
+    transform: translateX(0%);
+}
+
+.button--center {
+    margin: 1rem 25px;
+
+    @include tablet-landscape {
+        width: 50%;
+        margin: 1rem 25% 2rem 25%;
+    }
+}
+
+.link-to-rules {
+    text-align: center;
+}
+
+.link--accent {
+    color: map-get($colors, --clr-accent-purple, 300);
+    font-weight: bold;
+}
+
+.invalid-feedback {
+    position: relative;
+    top: -3.5rem;
+    color: red;
+    display: none;
+
+    @include tablet-landscape {
+        top: -1.5rem;
+    }
+}
+
+.is-invalid {
+    display: block;
+}

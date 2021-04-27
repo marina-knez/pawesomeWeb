@@ -1,0 +1,23 @@
+.sidebar {
+    background-color: map-get($colors, --clr-primary, 300);
+    border-radius: 5px;
+    color: map-get($colors, --clr-neutral, grey-200);
+    margin: 0 8px;
+
+    @include desktop {
+        margin-top: 4.3rem;
+    }
+}
+
+.sidebar-title {
+    color: map-get($colors, --clr-accent-purple, 300);
+}
+
+.sidebar__list {
+    margin-bottom: 1rem;
+}
+
+.text--accented {
+    color: map-get($colors, --clr-accent-purple, 300); 
+    font-weight: bold;
+}

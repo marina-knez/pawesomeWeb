@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+  <link rel="stylesheet" href="./dist/css/styles.css">
+  <title>Udruga pobjede</title>
+</head>
+<body>
+  <header class="header">
+    <div class="header__content">
+      <img src="./src/assets/background-logo/logo-00.jpg" alt="Udruga pobjede logo" class="header__img">
+      <h1 class="header__logo">
+        <a href="./index.html">Udruga pobjede</a>
+      </h1>
+
+      <ul class="header header__icons">
+        <li class="header__icon">
+          <button class="button--no-styles">
+            <i class="fas fa-home"></i>
+          </button>
+        </li>
+
+        <li class="header__icon">
+          <button class="button--no-styles visually-hidden--desktop">
+            <i class="fas fa-paw"></i>
+          </button>
+        </li>
+      </ul>
+    </div>
+
+    <section class="home-cart">
+      <h2 class="home-cart__title">Home Cart</h2>
+
+      <button class="button--no-styles form-button">
+        <i class="fas fa-times home-cart__close-button"></i>
+      </button>
+
+      <ol class="home-cart__dog-list">
+     
+      </ol>
+      <div class="cart-miscellaneous">
+        <button class="button button--primary home-cart__checkout-btn"><a href="./checkout.html" class="home-cart__checkout-btn">Udomi</a></button>
+      </div>
+    </section>
+
+    <nav class="menu-nav">
+      <i class="fas fa-times close-navigation visually-hidden--desktop"></i>
+      <ul class="navigation">
+        <li class="navigation__item"><a href="./index.html">Naslovna</a></li>
+        <li class="navigation__item">
+          <a href="./o-nama.html">O nama</a>
+          <label for="btn-1" class="show"><i class="fas fa-plus visually-hidden--desktop"></i></label>
+          <input type="checkbox" name="btn-1" id="btn-1" class="">
+          <ul class="navigation__sub-menu">
+            <li class="navigation__sub-menu-item item--narrow"><a href="./volontiranje.html">Volontiranje</a></li>
+          </ul>
+        </li>
+        <li class="navigation__item">
+          <a href="./azil.html">Azil</a>
+          <label for="btn-2" class="show"><i class="fas fa-plus visually-hidden--desktop"></i></label>
+          <input type="checkbox" name="btn-2" id="btn-2" class="">
+          <ul class="navigation__sub-menu">
+            <li class="navigation__sub-menu-item"><a href="./bebe-azila.html">Bebe azila</a></li>
+            <li class="navigation__sub-menu-item"><a href="./udomi-me-živim-u-azilu.html">Udomi me, živim u Azilu</a></li>
+            <li class="navigation__sub-menu-item"><a href="./udomljavanje-psa-iz-azila.html">Udomljavanje psa iz Azila</a></li>
+          </ul>
+        </li>
+        <li class="navigation__item">
+          <a href="./blog.html">Blog</a>
+          <label for="btn-3" class="show"><i class="fas fa-plus visually-hidden--desktop"></i></label>
+          <input type="checkbox" name="btn-3" id="btn-3" class="">
+          <ul class="navigation__sub-menu">
+            <li class="navigation__sub-menu-item"><a href="./blog.html">Kedikom po svijetu</a></li>
+            <li class="navigation__sub-menu-item"><a href="./dnevnik-pobjeda.html">Dnevnik pobjeda</a></li>
+          </ul>
+        </li>
+        <li class="navigation__item">
+          <a href="./ostalo.html">Ostalo</a>
+          <label for="btn-4" class="show"><i class="fas fa-plus visually-hidden--desktop"></i></label>
+          <input type="checkbox" name="btn-4" id="btn-4" class="">
+          <ul class="navigation__sub-menu">
+            <li class="navigation__sub-menu-item  item--wide"><a href="./ostalo.html">Prijavljivanje zlostavljanja životinja</a></li>
+            <li class="navigation__sub-menu-item  item--wide"><a href="./prijavi-pronađenu-ili-izgubljenu-životinju.html">Prijavi pronađenu ili izgubljenu životinju</a></li>
+          </ul>
+        </li>
+        <li class="navigation__item"><a href="./pristupnica.html">Pristupnica</a></li>
+        <li class="navigation__item"><a href="./doniraj.html">Doniraj</a></li>
+        <li class="navigation__item"><a href="./kontakti.html">Kontakti</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="content--margin-l-r">
+    <section class="hero-slider">
+      <div class="hero-slider__track-container">
+        <ul class="hero-slider-list">
+          <li class="hero-slider-list__item">
+            <img src="./src/assets/slider/slider-img-01.jpg" alt="Hero Slide 01" class="hero-slider-list__item-img"/>
+          </li>
+          <li class="hero-slider-list__item">
+            <img src="./src/assets/slider/slider-img-02.jpg" alt="Hero Slide 03" class="hero-slider-list__item-img"/>
+          </li>
+          <li class="hero-slider-list__item">
+            <img src="./src/assets/slider/slider-img-03.jpg" alt="Hero Slide 03" class="hero-slider-list__item-img"/>
+          </li>
+          <li class="hero-slider-list__item">
+            <img src="./src/assets/slider/slider-img-04.jpg" alt="Hero Slide 04" class="hero-slider-list__item-img"/>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="home-page__section">
+      <h2>Dragi/a prijatelju/prijateljice pasa!</h2>
+      <p>Azil, posljednje utočište za brojne nam zaboravljene i napuštene četveronožne sugrađane/ke smješteno je u prigradskom naselju Nemetin, nešto više od 5km udaljenom od Osijeka. Vrijedne ruke volontera/ki i uposlenika/ca Azila nastoje uljepšati svakodnevicu našim štićenicima i štićenicama čiji se broj rijetko spušta ispod 200.. Da gladnih usta ne bi bilo još i više program kastracije provodimo cijele godine. Antiša, Melita, Gazda, Goca, Divljo, Ankica, Mustra, baš kao i svi ostali stanovnici/ce Azila sanjaju o danu kada će upoznati čovjeka koji je potegao do Azila baš zbog njih i s kojim će zaboraviti sve one ružne uspomene i sjećanja. Na stotine ih je već ispunilo taj san. Upitnik koji ispunjavaju potencijalni udomitelji pomaže nam pri pronalasku idealnog psa baš za njih. Da im ne moraju naši psi pričati o važnosti kastracije, svojim potrebama i pravima za buduće udomitelje osmislili smo brošuru s korisnim informacijama. Kada je svima sve jasno udomitelji potpisuju ugovor o udomljenju, a da smo stvarno spojili srodne duše (a i da nas naši psi nisu zaboravili) uvjerimo se obilaskom naših bivših štićenika/ca u njihovim novim domovima.</p>
+      <p>I dok se oni nas još tu i tamo prisjete, nas i dalje muče svakodnevni azilski problemi. Suživot s dvije stotine pasa nije nimalo lak- treba počistiti tih tri tisuće kvadrata (nekad se čini i kao četiri), oprati svakome zdjelicu, promijeniti vodu i skuhati ručak za dvjesto gladnih usta. I nije to sve. Uvijek ima onih bolesnih kojima je potrebna dodatna njega, nađe se nerijetko i neka ograda za pokrpati, rupa za zatrpati, a i nema tog koji će proći dvorištem a da ne zastane i razmijeni koju s domaćinom, barem o vremenu, pa tako dvjesto puta. Al nije ni to sve. Imamo mi velike planove. Od kada smo preuzeli sklonište (koje je u to vrijeme izgledalo kao prizor horror filma) u fazi smo rekonstrukcije. Činimo sve kako bi životni prostor naših štićenika/ca bio što bolji , pa makar i privremeni, dom. Grade se novi boksovi, adaptira se postojeća infrastruktura, kanalizacija je stigla, plin je u planu, a još brdo posla nas očekuje. Nekada se i sami sebi čudimo kako nam to uspijeva sa sredstvima koje Grad Osijek izdvaja za Azil- precizno 8.333kn mjesečno. Ostalo je dobra volja sugrađana/ki i sposobnost predanih aktivista/ica da iz ničega naprave nešto. Nadamo se i boljim danima, i ne samo da se nadamo nego na tome i radimo. I nema ljepšega nego biti dijelom te priče i doći kući umoran/na iz Azila znajući da si nekome uljepšao/la dan.</p>
+      <p>Dođi i uvjeri se sam/a.</p>
+    </section>
+
+    <section>
+      <h2>Super izazov 22</h2>
+      <p>Dobro došli u Super izazov 22!</p> 
+        <p>POWERED BY SUPER LJILJA </p>
+        <p>Prijavi se & pridruži više od 420.000 ljudi koji su već prošli ovo 22-dnevno vegansko iskustvo!</p>
+        <ul>
+          <li><i class="fas fa-paw paw--list"></i>Online vodstvo mentora/ica & nutricionista/ica!</li>
+          <li><i class="fas fa-paw paw--list"></i>Prijateljsko & podržavajuće okruženje!</li>
+          <li><i class="fas fa-paw paw--list"></i>Hrpa basnoslovnih biljnih recepata!</li>
+          <li><i class="fas fa-paw paw--list"></i>Besplatno!</li>
+        </ul>
+        <p>Kako se prijaviti?</p>
+        <p>Klikni na: https://superizazov22.com/</p>
+        <p>zatim:</p>
+        <ol> 
+          <li>prijaviš se putem kratkog obrasca</li>
+          <li>pridružiš se posebnoj Facebook grupi Super izazov 22 (kliknite na "Pridruži se grupi"),</li>
+        </ol>
+        <p>i to je sve!</p>
+        <img src="./src/assets/home-page/super-challenge-22.jpg" alt="Plakat Super izazova 22" class="home-page__img">
+    </section>
+
+    <section>
+      <h2>Udomljenja u doba korone ;)</h2>
+        <p>Nedajbože da nam stanu udomljenja, pa ubit ćemo tu Koronu!!</p>
+        <p>Reče Lemon i dadne mi ne jednu nego sto i jednu pusu!</p>
+        <p>A ja vam sad moram prevest sve te silne puse; iliti - KEROVCI IZ AZILA VAM PORUČUJU da oni (i ovog puta!) nisu ni za šta krivi i da mole ako razmišljate o psu da prvo razmislite o psu iz Azila jer udomljavanjem psa iz Azila  spašavate čak dva života! Onog kerovca kojeg ćete odvest kuć iz Azila i onog s ulice koji će doći na njegovo mjesto!</p>
+        <p>Mi smo skrooz pojednostavili protokol udomljavanja u smislu da to što ćete prvo se čut s nama pa tek onda doći u Azil uopće nije tako loša stvar,
+          pa mi smo baš ugodne sugovornice preko telefona</p>
+        <p>Kako to sad izgleda?</p>
+        <p>Udomljavanje u doba korone?</p>
+        <p>Evo vako: vi prvo pogledate sve pse i pročitate o njima sve što smo napisali (jer psa trebate birati po karakteru a ne po izgledu baš kao što su ljudi koji vas vole jednako birali srcem) to možete učiniti tu na fb, evo linka na album - https://tinyurl.com/w2wb7su i onda nam se javite s nekim užim izborom a možete nam se javiti i odmah pa ćemo vam mi pomoći napravit taj uži izbor. E onda kad iskomuniciramo to sve u inboxu il telefonski (stvarno vam stojimo na raspolaganju jer uostalom - udomljenja su razlog zašt postojimo!) onda dogovorimo točan termin vašeg dolaska u Azil kako biste mogli i uživo upoznati vašeg izabranika il izabranicu il množina. Nebojte se, to sve radimo uz minimalan socijalni kontakt odnosno mi vam izvedemo psa (po psa) i vi s njima (samo vi) odete prošetati dolje šetnicom ispod Azila, uzmete si vremena koliko god vam treba i zaljubite se!</p>
+        <p>Ugovor također ispunjavamo uz minimalan kontakt, ne sekirajte se, na sve smo mislile, jer ne želimo ni vas a ni nas (pa tako posredno i kerovce) dovesti u opasnost, s nama ste sigurni, baš točno onoliko koliko očekujemo od vas, kad udomite psa od nas, da on/a bude sigurna s vama!</p>
+        <img src="./src/assets/home-page/adopt-me-corona.jpg" alt="Crni nasmijani pas koji jedva čeka da ga udomite." class="home-page__img">
+    </section>
+
+    <section>
+      <h2>Besplatne kastracije pasa</h2>
+      <p>Kad bi se kerovce pitalo, pa ne bi nitko od njih volio živjeti u Azilu! Kao da je ludilo dane, mjesece, godine provoditi zatvoren/a u kavezu, boxu (trebate vidjet šinteraje...mislim možete ih vidjet, prepun je fb snimaka i fotografija di jedu jedni druge, u govnima, prljavštini, gladni i umorni. Kao "spašeni" jel...) Mi samo gasimo požare i ovako možemo unedogled i jest, naravno da se svaki spašen život broji, to je velika najveća stvar! Al da imate priliku spriječiti spašavanja, prevenirati ih, preduhitrit ih, biste li pokušali? Pa ja mislim da bi, i evo dajemo vam priliku za to! Najbolja prevencija patnji prekobrojne pseće populacije jest kastracija! Da, ma čula sam već sve žive protuargumente i niti jedan mi nije dao neku alternativu osim ove koju već živim, živimo, žive. A ta je previše pasa, premalo dobrih uvjeta za udomljavanje, i da - reći ćete da ćete štencima svoga psa naći dobre domove, čula i to već jedno milion puta al ako malo bolje razmislite - nije to rješenje jer ti štenci će opet imat štence pa štenci štenaca svoje štence i tako u samo godinu dana dođeš od jednog psa do 500tinjak pasa u samo godinu dana! Nije, stvarno nije dobra matematika. I onda umiru u mukama, sadisti se iživljavaju, fb je prepun slika pasa koji traže dom i mnogi od njih ga nikad neće naći a dotle će živjeti po kojekakvim rupama... Jedino rješenje koje trenutno imamo su kastracije. I mi vam ih nudimo besplatno! U suradnji sa njemačkim partnerima, udrugom ITV Grenzenlos koja u potpunosti financira novih 300 kastracija za skrbničke pse s područja Osijeka, i Veterinarskom stanicom Osijek koja ih obavlja nastavljamo projekt započet jesenas. Sve što trebate učiniti jest ispuniti prijavnicu i čekati da vam se jave naše cure. Aj pliz da se ne igramo ni savršenog svijeta, ni dosadnih mačo dosjetki nit pametnjakovića, nitko na svijetu se još nije dosjetio efikasnijeg rješenja pa nekako ne gajim nadu ni da će se baš pod ovim postom desit išta slično, ajd da mislimo i na druge, nismo sami na planeti premda se prečesto ponašamo kao da jesmo.</p>
+      <p>PRIJAVNICA: https://forms.gle/6cKdo19aKvGUgpSTA</p>
+    </section>
+
+    <section>
+      <h2>Kako doći do najtraženijeg kalendara u svemiru!?</h2>
+      <p>Dakle, ako ste propustili promociju (mislim, šteta jel) onda nemojte propustiti svoj primjerak kalendara ni za živu glavu! Pa kerovci svašt planiraju po Azilu od tih para :)</p>
+      <p>Znači na slijedećim lokacijama možete pronaći Tamnu stranu mjeseca, naaajljepši kalendar u svemiru</p>
+      <ul>
+        <li><i class="fas fa-paw paw--list"></i>ŠTAND u Kapucinskoj ul., na našem starom mjestu svim danima osim nedjeljama skroz do Badnjaka u dvije smjene - prijepodnevnoj od 10 do 12 i popodnevnoj od 17 do 19 sati. Uz kalendare na štandu možete pronaći kompletnu azilsku butigu; dukse, majice, kape, ruskake, bedževe, privjeske i naše nasmiješene volonter(k)e i ponekog kerovca.</li>
+        <li><i class="fas fa-paw paw--list"></i>PORTANOVA infopult</li>
+        <li><i class="fas fa-paw paw--list"></i>Dječje Kazalište B.Mihaljevića, dgo (8-15)</li>
+        <li><i class="fas fa-paw paw--list"></i>vet. ambulanta Valvet</li>
+        <li><i class="fas fa-paw paw--list"></i>vet. stanica Osijek</li>
+        <li><i class="fas fa-paw paw--list"></i>vet. ambulanta Fury</li>
+        <li><i class="fas fa-paw paw--list"></i>Ured naše udruge, Senjska 18, Jug2</li>
+        <li><i class="fas fa-paw paw--list"></i>Zagreb: ured Prijatelja životinja, Jurišićeva 25 (pon-pet 9-17)</li>
+        <li><i class="fas fa-paw paw--list"></i>naružbe primamo iz čitavog svemira u naš inbox na fb Azil Osijek-volonteri ili na pobjede@gmail.com</li>
+        <li><i class="fas fa-paw paw--list"></i>i naravno u našemu Azilu (i još i prošećete nekog, kad već dolazite...)</li>
+      </ul>
+      <div class="home-page__img img--flex">
+        <img src="./src/assets/home-page/calendar.jpg" alt="Naslovna stranica kalendara"  class="home-page__img img--flex-width">
+        <img src="./src/assets/home-page/calendar-dog-img.jpg" alt="Slika azilskog psa koja se nalazi u kalendaru" class="home-page__img img--flex-width">
+      </div>
+    </section>
+
+    <section>
+      <h2>Udomljavanje je ljubav</h2>
+      <p>Ne znam znate li šta sve Azil daje u miraz kerovcima kojima vi odlučite dati svoje srce i udomiti ih?</p>
+      <p>E ovako; uz pomoć Grada Osijeka (trebale su nam godine, al smo uspjeli!) svaki pas bude cijepljen protiv bjesnoće (što je zakonska obaveza), čipiran (što je također zakonska obaveza ali i garancija da ćete lakše pronaći svog psa izgubi li se ikad!) i kastriran.</p>
+      <p>UZ pomoć donacija svih dobrih ljudi koji prate i podržavaju naš rad svaki pas bude i očišćen od unutarnjih parazita (činimo to odmah po ulasku u Azil i onda svaka 3 mjeseca ponovo) bude očišćen od buha i krpelja, odmah po dolasku i onda 1x mjesečno dok živi u Azilu, znači s našim psima buhe ne putuju </p>
+      <p>Svaki pas čim dođe bude cijepljen protiv psećih virusnih bolesti, ukoliko se pas ne udomi u idućih godinu dana, bude cijepljen opet, odnosno u svakom trenu udomljavajući psa iz Azila dobivate zdravog psa osim ukoliko vas ne informiramo drukčije!</p>
+      <p>Ono što je novost i što uvodimo jest da sa odabranikom il odabranicom srca svog dobijete i njegov/njen zdravstveni karton! Pa ćete znat ukoliko jest ikad liječen od bilo čega, pa bila to i prehlada</p>
+      <p>Ako udomite psa iz Azila, dobijete besplatno savjetovanje s trenericom pasa i onda 15% popusta odlučite li se na školicu. Najbitnija stvar jest da udomljavajući psa iz Azila dobijete stručnu pomoć u smislu da naše cure jako dobro znaju koga vam udomljavaju i mogu bez problema spojit vaša očekivanja sa potrebama naših pasa</p>
+      <p>Isto tako, možda malo manje važno al slatko jest to da udomljavajući psa iz Azila postajete dio naše velike azilske familije</p>
+      <p>E i nema tih para koje to mogu kupit</p>
+      <p>#UdomljavanjeJeLjubav</p>
+      <img src="./src/assets/home-page/adopt-me.jpg" alt="Pet azilskih pasa koji nestrpljivo čekaju da ih udomite" class="home-page__img">
+    </section>
+
+    <section>
+      <h2>Udomljenja u 2018.</h2>
+      <p>LJUDI!</p>
+      <p>Hoćete znati koliko pasa je u 2018. udomljeno iz našega Azila?</p>
+      <p>Hoćete?</p>
+      <p>TRISTO PEDESET I PET PASA U 2018. JE UDOMLJENO IZ AZILA!!!</p>
+      <p>Živjelo svih 355 udomitelja/ica! </p>
+      <p>Živjeli svi vi koji ste ušli u najveću i najbolju familiju na svijetu!</p>
+      <p>Živjeli svi vi koji ste obećali brinuti o njima i u zdravlju i u bolesti, do kraja njihovih života!</p>
+      <p>Živjela udomljenja, živjele Pobjede!</p>
+      <p>Vidimo se u provjerama</p>
+      <p>Grad Osijek zaslužan je što su vam svi došli cijepljeni, čipirani i kastrirani, dobri ljudi koji rade u Azilu, volonterke i volonteri zaslužni su što vam se pazilo na vašeg psa kao na oči u glavi (svo ono vrijeme dok nije postao vaš, jel :) ), sve donatorice i donatori zaslužni su što su siti, svaki mjesec čišćeni od buha i krpelja, svaka 3 mj. od unutarnjih parazita, svake godine cijepljeni protiv virusnih, što su liječeni ako su došli bolesni.</p>
+      <p>Zaslužni ste i svi vi koji ste dijelili njihove objave, i svima i svuda pričali o Azilu pa se stvarno dogodi da uspijemo (i to 99% lokalno ljudi moji!) udomiti 355 pasa! Živjele i privremene udomiteljice i pokoji čiko dobra srca</p>
+      <p>Živjeli svi vi koji činite Pobjede najboljom udrugom na svijetu! </p>
+      <p>Žiiiivjeeeeelliiiiiiiiiiiiiiiiii!</p>
+      <img src="./src/assets/home-page/adopted-in-2018.jpg" alt="Slike pasa koji su udomljeni 2018. i njihovih novih vlasnika" class="home-page__img">
+    </section>
+
+    <section>
+      <h2>Znate li kakva je bila 2018.?</h2>
+      <p>Volontiranje je navika srca, et ne znam šta bolje od tog da vam kažem </p>
+      <p>Jer zapravo tako je, kad jednom kreneš i kad jednom upoznaš te pse, kad jednom osjetiš benefite njihovog društva, taj filing da sudjeluješ u nečemu što je veće od tebe i što je budućnost sama...</p>
+      <p>neprocjenjivo, zato i nije plaćeno</p>
+      <p>Azil i Pobjede izgrađene su na volonterskim temeljima, na (možda zvuči malkoc patetično al je tako) žuljevima, znoju, suzama svakako pa čak i ponešto krvi (pa bar da te pmsove silne uračunamo) i Azil smo s najvećim brojem volonterki i volontera u Hrvatskoj e al još uvijek nedovoljno nas ima, i bez obzira što niste lili krv, suze, nabili žuljeve u proteklih 10 godina pa još uvijek nije kasno za sve to</p>
+      <p>Ma šalim se ja,  one najgore i najteže stvari daleko su iza nas i naravno da djelujete ovisno o svojim vlastitim mogućnostima i željama, ne morate se bojati da ćete morati kopati ili cjepati drva ak to ne želite, a možda baš želite jer po cijele dane sjedite u uredu i baš vam treba zdravog old skul razgibavanja. Možda volite bojati i samo da znate da i mi volimo kad volite bojati jer i kerovci vole kad volite bojati jer oni vide boje i volimo da nam je Azil lijep i npr. zelen i sav od cvijeća i drveća a vi možda baš latentna baštovanka u duši! Drava i šuma ispod Azila i društvo kerovaca u šetnji najbolji su lijek protiv depresije za koji znam! Pravljenje budućnosti onima kojima ju je netko već pokušao oduzeti najbolji je lijek na svijetu za sve!</p>
+      <p>A sve što vam treba za to jesu neke stare patike i pokoji osmijeh, za ono što ćete odnijet kuć od nas - vrlo mal ulog</p>
+      <p>U 2018. volonterke i volonteri šetali su pse, davali im imena i učili ih na dobrotu u ljudima. Vozili su pse k veterinarima, njegovali ih u svojim domovima i davali im nadu. Educirali svoje sugrađane kroz razne programe, pravili evente, popravljali svijet. Zimi brinuli da kerovci imaju slame u kućicama, i nacijepanih drva za u peć, ljeti da uživaju u Dravi i da dok se može u kratkim laćama radit - popravaljali, bojali, preuređivali, kopali, sadili, smijali se, družili i zaljubljivali.</p>
+      <p>Da, sve to i puno puno više toga možete kod nas. Kod nas možete voditi aukcije il četkati kerovce, možete smisliti kako Azil učiniti još ljepšim il ispust još interaktivnijim. Možete crtati i možete kopati. Možete šutjeti i maziti kerovce a možete i skuvati kavu jer ćete je uvijek imat s kim popit</p>
+      <p>Naši kerovci vam jednostavno daju priliku da postanete bolji vi. I nemojte je propustiti, vjerujte mi da vrijedi svega uloženog!</p>
+      <img src="./src/assets/home-page/working-force.jpg" alt="Pet volonterki azila s alatom za čišćenje u rukama" class="home-page__img">
+    </section>
+
+    <section>
+      <h2>Božićni ručak u azilu 2018</h2>
+      <p>Kojem danu se kerovci naaajviše vesele u Azilu?</p>
+      <p>Pa 26.12. jer onda je Božićni ručak u Azilu!</p>
+      <p>i znaju to već i ptičice na granama, oni kerovci kojima će ovo biti prvi Božić u Azilu slušaju od starijih i iskusnijih priče (za koje ne mogu sto posto garantirat da nisu sve bar malo napuhane ;) ) o petstotinjak djedova i baba Božićnjaka koji s punim rukama fine klope donesu Božić i do Azila i onda nakon što se cijeli Azil prošeta svi ručaju onako fino kako nikad do tad nisu</p>
+      <p>Šta kažete?</p>
+      <p>Da ponovimo sve to i ove godine pa da kerovci opet imaju o čemu pričat?</p>
+      <p>26.12. dođite da damo, svi zajedno, Božiću onu dimenziju koju zaslužuje! Dimenziju solidarnosti, suosjećajnosti, ljubavi i prijateljstva. Jer znaju naši kerovci da imaju puno puno prijatelja, samo sada nestrpljivo čekaju da ti isti stave kape, šal i rukavice, koju konzervu u džepove i dođu dovest Božić i do Azila.</p>
+      <p>Startamo u 10 ujutro (taman nam date do 10 fore da sve očistimo, promijenimo vodu, operemo zdjelice, stavimo im ogrlice :) ) i onda krećemo sa šetnjama.</p>
+      <p>Kerovce ćemo zajedno nahraniti u 13 sati, a odmah nakon što se oni napapaju, bit će ručka i za sve na dvije noge :) Skuvati ćemo vam najfiniju vege sarmu na svijetu!</p>
+      <p>I nakon tog opet u šetnjice skrooz do mraka :)</p>
+      <p>Nemojte se bojati ni da ćete ostati žedne i žedni jer bit će kuvanog vina i čaja čitav dan! :)</p>
+      <p>e i na kraju imamo malu malu molbicu: s godinama naši povodci kojima vodate kerovce do Drave ispod Azila malkoc su se ofucali, uništili, nestali i iskreno nećemo ih ni imati dovoljno da se svi izvedu i zato vas molimo (al nemojte im reći, nek bude iznenađenje ;) ) ak možete da kerovce za Božić osim sa konzervicom iznenadite i povodcem</p>
+      <p>I to nije sve, kerovci su pisali Djeda Mrazu koji je onda pisao <a href="https://www.facebook.com/PetHomeHR/" class="text--acc">PET HOME Hrvatska</a> koji je u Portanovi otvorio shop i odlučili su i oni uključiti se u darivanje i svakome tko dođe kupiti povodac za Azil daju 30% popusta na njega, šta kažete a? :)</p>
+      <p>A mi vas molimo ako budete pod azilski bor (iliti ono drvo koje bude glumilo bor ove godine :) ) odlučili donijet koji povodac da vodite računa o tome da budu 1,5 do 2m dugački, manji od toga ili fleksiji nam ne vrijede puno u Azilu, al znate to i sami iz iskustva</p>
+      <p>Eto, sad kad smo se sve dogovorili mi smo sigurni da će 26.12. i ove godine spektakularno zatvoriti 2018. i da ćete i vi i mi i kerovci još dugo dugo prepričavati kako je lijepo bilo...</p>
+      <img src="./src/assets/home-page/x-mass-lunch.jpg" alt="Božićno druženje u azilu 2018." class="home-page__img">
+    </section>
+
+    <section>
+      <h2>Promocija najljepšeg kalendara na svijetu</h2>
+      <p>pa ljudi moji! ja ne mogu a da vam ne pokažem bar još jednu STRANICU NOVOG NAM KALENDARA! </p>
+      <p>a to je zato što sam baš baš baš ponosna na njega, kad vidim šta se sve može gurnuti među 12 strana,
+        toliko ljubavi, kreativnosti, želja, kad ekipa koja ga je radila nije pala s marsa nego iz našeg Azila 
+        Kad su to ljudi koji vole taj Azil onda ta ljubav može izgledati i ovolko dobro!</p>
+      <p>Da, daaaa dobro ste skužili - napravili smo kalendar/novine  u kojima ćete moći čitati o toliko toga što muči nas kerovce, o onome od čega brže i hrabrije rastemo, o onome što nas veseli i o onome što mislimo kad kažemo da želimo bolji svijet! Ma kad vam kažem da će vam se dopasti! A bome ima da vam se dopadne i <a href="https://www.facebook.com/events/284819605511675/?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=[%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A[]%7D]&has_source=1&eid=ARBv6DvfhEQc3Q_dGBFRrsbfa5OLTMypAMhhD0G0dw8iuju_Hmg6CCdmIOt-884T8cu5GiJmHVg-a8hS&fref=mentions&__xts__[0]=68.ARDsEf06jFx38mH2dtRmRfd57UjLtEo5--1hLe7PR1_wxgagM-XNZn2ay94E69h3hVm5Zcif8m0VWmsQOJ-Ne_gjLOSlbacRgNrkYf0x2js_n07eZm9lgIHsYFgYIHiGqbKGdTGckNbxyVqaMU8UydyFDRX8St2niMFEpVwCWzrxT7CuhmwFz6LPZEpumLqN7IP-X75Hh8FJI0XfvXpjgRgUQT9qbrMvqmolFZZS37JGoZOCGuoBXdr9hLoZxHJjTrjnddINkvhTx4g4wf9k_4mRWG6nng7AzadF2PEQlV4PoiG0wbz0yj9IYq3coRbM44vVnHnUp68Yi8D-0Qzx_ObaKA" class="text--acc">Promocija najljepšeg kalendara na svijetu!</a> jer radimo ko sumanuti da bude jakojako lijepa, da vas gane do suza, da izađete s nje sretni, nasmijani i ponosni do neba i nazad što smo prijatelji!  E baš takvu promociju dogovorili smo se mi kerovci da ćemo napraviti, a naše volonterke i volonteri će nam pomoći s kolačima (nije da mi ne znamo mijesit al ne bismo voljeli odgovarat za svaku dlaku koju nađete u kolačima  ), skuvat će vino, čaj, zajedno smo snimili neke super filmiće, organizirali da i nebo tu noć bude na gotovo i da kiša, snijeg i ostali bakraći nemaju pristupa</p>
+      <p>i znate šta?</p>
+      <p>Ma bit će vam super, jer mi vas volimo kolko i vi volite nas (a i računamo da nam vratite za Božićni ručak)</p>
+      <p>naše drago kino Europa, 12.12. srijeda u 19:30 <a href="https://www.facebook.com/events/284819605511675/?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=[%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A[]%7D]&has_source=1&eid=ARBv6DvfhEQc3Q_dGBFRrsbfa5OLTMypAMhhD0G0dw8iuju_Hmg6CCdmIOt-884T8cu5GiJmHVg-a8hS&fref=mentions&__xts__[0]=68.ARDsEf06jFx38mH2dtRmRfd57UjLtEo5--1hLe7PR1_wxgagM-XNZn2ay94E69h3hVm5Zcif8m0VWmsQOJ-Ne_gjLOSlbacRgNrkYf0x2js_n07eZm9lgIHsYFgYIHiGqbKGdTGckNbxyVqaMU8UydyFDRX8St2niMFEpVwCWzrxT7CuhmwFz6LPZEpumLqN7IP-X75Hh8FJI0XfvXpjgRgUQT9qbrMvqmolFZZS37JGoZOCGuoBXdr9hLoZxHJjTrjnddINkvhTx4g4wf9k_4mRWG6nng7AzadF2PEQlV4PoiG0wbz0yj9IYq3coRbM44vVnHnUp68Yi8D-0Qzx_ObaKA" class="text--acc">Promocija najljepšeg kalendara na svijetu!</a></p>
+      <p>a nakon promocije kalendar kreće na putešestvije po svijetu, šaljemo ga di god poželite a već sada ga možete naručiti u našem inboxu! Pa onda naši štandovi kod pbza u Kapucinskoj, pa Gisko, pa Portanova, pa sve znate</p>
+      <p>Ko i svih dosadašnjih godina kalendar ćete moći dobiti u zamjenu za donaciju od 40kn</p>
+      <p>i znate šta?</p>
+      <p>ovo nam je DESETI kalendar po redu! </p>
+      <img src="./src/assets/home-page/newspaper-add.jpg" alt="Stranica iz kalendara na kojoj je šaljiva priča o psu iz azila koji je išao na suđenje jer je uhvaćen u krađi hrane iz tuđih zdjelica" class="home-page__img">
+    </section>
+  </main>
+
+  <footer>
+    <section class="footer">
+      <h3>Pronjuškajte</h3>
+
+      <div class="footer--left" >
+        <ul class="footer--left__link-list">
+          <li>
+            <i class="fas fa-paw"></i>
+            <a class="footer__link" href="./index.html">Udruga pobjede</a>
+          </li>
+          <li>
+            <i class="fas fa-seedling"></i>
+            <a class="footer__link" href="https://superizazov22.com/">Super izazov 22</a>
+          </li>
+          <li>
+            <i class="fas fa-unlock-alt"></i>
+            <a class="footer__link" href="https://www.abovo-campaign.com/">Ab ovo kampanja</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer--right">
+        <ul class="">
+          <li><i class="far fa-envelope"></i>pobjede@gmail.com</li>
+          <li>
+            <i class="fab fa-facebook"></i>
+            <a class="footer__link" href="https://www.facebook.com/azil.osijekvolonteri">Azil Osijek - volonteri</a>
+          </li>
+          <li>
+            <i class="fab fa-facebook"></i>
+            <a class="footer__link" href="https://www.facebook.com/Udruga.Pobjede">Udruga Pobjede</a>
+          </li>
+          <li><i class="fas fa-mobile-alt"></i>Azil Osijek</li>
+        </ul>
+      </div>
+    </section>
+
+    <div class="copyright">
+      <small class="" tabindex="0"
+        >Copyright &reg; 2014 Udruga Pobjede - zaštita i promicanje prava životinja. All Rights Reserved.</small
+      >
+    </div>
+  </footer>
+  
+ <script src="build/app.bundle.js"></script>
+ <script src="./src/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+.bg--frame {
+    background-color: map-get($colors, --clr-primary, 300);
+    color: map-get($colors, --clr-neutral, grey-100);
+    font-weight: bold;
+    border-radius: 8px;
+    border: 2px solid map-get($colors, --clr-neutral, grey-100);
+
+    & > * {
+        padding: 8px;
+    }
+}
+
+.document {
+    background-color: map-get($colors, --clr-neutral, off-white);
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    transition: all .5s;
+
+    & > * {
+        padding: 1rem;
+    }
+
+    @include tablet-landscape {
+        width: 80%;
+
+        & > * {
+            padding: 2rem;
+        }
+    }
+}
+
+.content--margin-top {
+    margin-top: 1rem;
+
+    @include desktop {
+        margin-top: 5rem;
+    }
+}
+
+.content--margin-l-r {
+    @include tablet {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    @include tablet-landscape {
+        margin-left: 3.5rem;
+        margin-right: 3.5rem;
+    }
+    
+    @include desktop {
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+}
+
+.content--right {
+    text-align: right;
+
+    & > * {
+        margin-bottom: 0;
+    }
+}
+
+.document__item.margin--top {
+    margin-top: 3rem;
+}
+
+.margin--left {
+    position: relative;
+    left: 5.4rem;
+}
+
+.center--align {
+    text-align: center;
+}
+
+.margin--top-negative {
+    position: relative;
+    top: -1rem;
+    
+}
+
+.font--italic-grey {
+    font-style: italic;
+    color: map-get($colors, --clr-neutral, grey-100);
+}

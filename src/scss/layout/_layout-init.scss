@@ -1,0 +1,4 @@
+main,
+aside {
+    @include container ($container-width, $container-gutter);
+}

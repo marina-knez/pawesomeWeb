@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'arimo';
+    src: url('../../../src/fonts/Arimo-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'arimo';
+    src: url('../../../src/fonts/Arimo-Bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'arimo';
+    src: url('../../../src/fonts/Arimo-Italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'arimo';
+    src: url('../../../src/fonts/Arimo-BoldItalic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+body {
+  font-family: $ff-primary;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: map-get($colors, --clr-neutral, dark);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $ff-primary;
+  font-weight: bold;
+  color: map-get($colors, --clr-primary, 400);
+  margin-bottom: 21px;
+}
+
+h1,
+.h1 {
+  font-size: 24px;
+
+  @include desktop {
+    font-size: 28px;
+  }
+}
+
+h2,
+.h2 {
+  font-size: 24px;
+
+  @include desktop {
+    font-size: 28px;
+  }
+}
+
+h3,
+.h3 {
+  font-size: 16px;
+
+  @include desktop {
+    font-size: 22px;
+  }
+}
+
+h4,
+.h4 {
+  font-size: 15px;
+
+  @include desktop {
+    font-size: 20px;
+  }
+}
+
+h5,
+.h5 {
+  font-size: 14px;
+
+  @include desktop {
+    font-size: 17px;
+  }
+}
+
+h6,
+.h6 {
+  font-size: 13px;
+
+  @include desktop {
+    font-size: 16px;
+  }
+}
+
+p {
+  margin-bottom: 21px;
+}
+
+ul {
+  @include list-reset;
+}

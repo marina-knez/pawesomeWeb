@@ -1,0 +1,135 @@
+.two-column-page-layout {
+    @include desktop {
+        display: grid;
+        grid-template-columns: 35% 1fr;
+        grid-template-rows: 1fr 0.2fr;
+        grid-gap: 0.2rem;
+        grid-template-areas:
+            "sidebar main-01"
+            "sidebar main-02";
+    } 
+}
+
+.main-content-01 {
+    grid-area: main-01;
+}
+
+.main-content-02 {
+    grid-area: main-02;
+}
+
+.main-subtitle {
+    padding-top: 1rem;
+}
+
+.sidebar {
+    grid-area: sidebar;
+}
+
+.card,
+.cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 300px;
+    grid-gap: 1rem;
+    justify-items: center;
+    align-content: center;
+    margin: 1rem auto;
+    transition: all .5s;
+
+    @include tablet-landscape {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    @include desktop {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    &__list-item {
+        background-color: map-get($colors, --clr-primary, 300);
+        border-radius: 10px;
+        margin: 1rem auto 0;
+        transition: all .5s;
+
+        @include tablet {
+            width: 70%;
+
+            &:first-of-type {
+                height: 200px;
+                margin-top: 6.3rem;
+                transition: all .5s;
+            }
+        }
+
+        @include tablet-landscape {
+            &:first-of-type {
+                height: 284px;
+                margin-top: 1rem;
+            }
+        }
+    }
+
+   &__content {
+       text-align: center;
+
+       @include tablet {
+           margin: auto 2rem;
+       }
+   }
+
+   &__title {
+       font-size: 1.5rem;
+       color: map-get($colors, --clr-accent-purple, 300);
+       transition: all .5s;
+
+       &:hover {
+           color: map-get($colors, --clr-accent-green, 100);
+       }
+   }
+}
+
+.cards {
+    @include tablet-landscape {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.card__image {
+    height: 200px;
+}
+
+.card__image img,
+.card__image--hover {
+    height: 200px;
+    width: 250px;
+    object-fit: cover;
+    padding: 8px;
+    margin: auto;
+    border-radius: 10%;
+}
+
+.card__image img:hover + .card__image--hover{
+    display: block;
+}
+
+.card__image--hover {
+    position: relative;
+    top: -12.5rem;
+    display: none;
+}
+
+.card__section {
+    @include tablet {
+        display: flex;
+        flex-direction: row;
+        transition: all .5s;
+    }
+
+    @include tablet-landscape {
+        display: block;
+    }
+}
+
+.details__info {
+    display: none;
+}

@@ -1,0 +1,862 @@
+{
+  "shelterBabies": [
+    {
+      "id": 1,
+      "name": "Bumbo",
+      "age": "2020.",
+      "imgURL": "https://www.pobjede.hr/images/123432841_1810008579161904_2162020015604850201_n.jpg",
+      "description": "A vid ovog medvjedića! Znate kak se zove? Bumbo! I to mu ime tako perfektno stoji jer je najpufnastija pufna od sve Tašine djece. Mali međedić je najslađa beba od svih beba, tako bebeljuškast da te štipa za oči i za srce, dođe ti da ga nunaš i nosaš sasobom okolonaokolo i da ga nikom više nikad nedaš! I ajd sad da nađemo takvu, eto baš takvu osobu koja ga neće nikad više dat, i uz čiju ljubav će Bumbo izrasti u malo veću debeljucu. Sada je star2 i pol mjeseca i na taman je za otić iz Azila, taaaman da krene upoznavati i sve one lijepe stvari koje život pruža, npr. toplu zimu. A vi znate gdje će te naći i Bumba i nas, a poželite li pitati nas o njemu bilo što naći ćete nas i u inboxu. A do onda dijelite Bumbića Bumbu da nađemo te spešl pipls."
+    },
+    {
+      "id": 2,
+      "name": "Lupino",
+      "age": "2020.",
+      "imgURL": "https://www.pobjede.hr/images/92817986_1613909768771787_4746178671578972160_n.jpg",
+      "description": "Ak će itko danas rasterat oblake, on će! Upoznajte malecnog Lupina, malu bebu sa ozlijeđenom nogicom koju ćemo možda morati amputirati, danas ide kod doktorice pa ćemo vidjeti. Stigao nam je na uskršnju večer, sav malecan (ima tek oko 3mj) i buban; prednja noga teško ozlijeđena, stara rana, al izgleda kao da ju je u zamku ulovio ili nešto, stvarno nemam mašte za pretpostavke al ostala mu samo2 prsta i sve ugnojeno i grozno, očistile smo ranu (ima i još jednu na leđima al ta će bit ok), dale mu tableticu protiv glista, ampulu nismo smjele zbog otvorenih rana al smo skinule par krpelja, cijepile ga protiv virusnih i odmah ga preuzeo naš Josip jer u Azilu smo imali parvo i dovest novo štene, pogotovo takvo ravno je tome kao da smo ga ostavile na obilaznici (srećom pa naši volonteri uvijek nađu načina za utrpat još jedno pod svoj krov). Josip kaže da je pregenijalan, traži sam van kad treba piškit (jel mošte vjerovat?) da je jako pametan, privržen i da će žarit i palit kad odraste?"
+    }
+  ],
+  "shelterDogs": [
+    {
+      "id": 1,
+      "name": "Norton",
+      "age": "2020.",
+      "imgURL": "https://www.pobjede.hr/images/126449258_1829655180530577_5446411127286591705_o.jpg",
+      "description": "On je jednostavno frajer koji se ne voli fotkat i nakon 1916 pokušaja ovo je najuspjeliji od svih. Al znate šta? Uspjele smo! Sad možete vidjet kolko je Norton lijep! On vam je mali zvrkić, znate one niskopodne kerovce na malecnim nogama?  E od takih je, i stalno onak ko na federima, stalno oko tebe, daje puse a kad mu je poželiš vratit nemoš ga uvatit jer3 kruga obiđe oko tebe. I nije uopće neki hiperaktivac da me ne shvatite krivo, nije uopće neg je od onih kerovaca koji su prva dva dana umirali od straha u Azilu a onda kad smo se krenuli mazit sad stalno ko zeko, sav sretan, presretan, i maše tom guzičicom slatkom, zvrkastom. Norton je baš malecni pas, rođen početkom ove godine 2020., mlad i znam da bi nekom dao svoje srce, ono - baš baš za zauvijek i ako ga udomite imat ćete sve u njemu, jedino ne znam kakv će vam bit fotke. Dođite ga upoznat! Možete nam se javit i u inbox ako imate pitanja, a ako biste voljeli biti prva bitna persona u njegovu životu onda mu kumujte  Samo nam se javite u inbox da vam objasnimo kako."
+    },
+    {
+      "id": 2,
+      "name": "Sila",
+      "age": "2020.",
+      "imgURL": "https://www.pobjede.hr/images/126284602_1827839017378860_7833439051092656018_n.jpg",
+      "description": "na jedvite jade ju nagovorismo na ovo poziranje! jel vidite da nam govori - nemam vam ja vremena za ove stvari! - ? dame i gospodo, upoznajte Silu! ime joj sve kaže, Sila nema vremena za gubljenje - svaka sekunda u danu se mora iskoristiti kako spada, kako bi mogla zaspati u miru kod nje nema čekanja, nema predomišljanja, nema razmišljanja - ona što odluči - to i napravi! da se rodila u ljudskom obliku, sigurna sam da bi bila gorljiva feministica, koja bi ukazivala na sve društvene nepravde, da bi život posvetila ukazujući na njih (i to ne bi ovako pristojno govorila kao ja) i čineći svijet boljim mjestom za sve nas - mijenjajući ga! ipak, sudbina se umiješala, a čovjek baš sve pokvario izbacivši ju na polje - da se snađe - . Sila je stigla u Azil, nimalo pokolebana nepravdom koja ju je snašla i stvorila svoj mikrokozmos (misli globalno - djeluj lokalno) pokazavši nam koliko odlučnosti, vjernosti i ljubavi ima u njoj. Sila je pas koji će vam zagrliti nogu da ne odete iz boksa, pokušati se na sve načine progurati u Prvo dvorište, jer hej, ipak je ona - ona i mora biti prisutna i popratiti sve što se događa Sila je pas koja voli svim srcem i svakim atomom svoga tijela (začudili biste se koliko ljubavi stane u svega trinaestak kilica ), a njeno putovanje na kojem traži srodnu dušu (ali ne u onom, isfuranom obliku, Sila traži suputnika/suputnicu, podršku, prijateljstvo) tek je počelo, odnosno, rođena je u travnju 2020.! ovim putem pita se i je li nekoga od vas šarmirala dovoljno da joj kumuje i bude podrška dok ne nađe osobu u čijem pogledu će se prepoznati i s kojom će šetati kroz život šapom uz nogu"
+    },
+    {
+      "id": 3,
+      "name": "Olivia",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/126113215_1825791304250298_7491257338635270139_n.jpg",
+      "description": "Olivia ima jako tužne oči, pa čak i da ne zna za sve to što ih je učinilo tužnima, znala bih, srce mi ne bi dalo mira, da je imala strašno težak život prije Azila. Lanac. I da samo to napišem vama dosta jelda? Da, samo godinu stara i već je prošla kalvariju od neke smrdljive uzgajivačnice do nekog kretena kojem je bila lijepa pasmina vjvtno al mu je srce gadno pa ništ nije shvatio pa je onda nama probao ušiljt spiku kak ju je 'našao' a to je valjd trebalo bit onda okej što ju je držao na lancu. Ma uf, neću ni sekunde više na taj jad trošit, neg ću vam probat opisati šta još u njenim očima vidim kad nam se sretnu pogledi I želje). Vidim usamljenost tolko veliku da ni da sam Tin Ujević ne bih znala dobro o njoj pisati, ili bi me koštalo vlastitog srca, eto tolko su joj uzeli od nje. Djetinjstvo koje je trebalo biti djetinjstvo postalo je samoća i ništa više i glad za životom. kad je došla toliko je trčala da nije moglo da nas ne peče. Puštena s lanca... Vidim strah od drugih, nikada nije upoznavala druge pse i njihove namjere, kad kažeš 'NE' u njenom prvcu toliko se povuče da jednostavno znaš da su nekoć uz to ne slijedile i batine, sve ti jasno... Al vidim i mrvicu znatiželje, to kereće srce koje i najveće oluje izdrži, tu veličanstvenost dobrote koja se dugo u njoj skrivala ne nalazeći nikoga uz koga bi se vezala. Tu nadu, još uvijek zgrčenu od dosadašnjih iskustava al sve više spremnu da se da, da se prepusti. Onome o čemu je do sada možda samo čula al još uvijek ne vjeruje da postoji a to je ljubav. Za sva pitanja koja vam padaju na pamet a voljeli biste nam ih postavit ako razmišljate o tome da baš vi promijenite Olivijinu sudbinu javite nam se u inbox ili dođite do Azila. A ne možete li biti ti koji će joj zauvijek promijeniti život a htjeli biste sudjelovati u procesu možete joj kumovati. Ako poželite da uz njenu sliku stoji vaše ime, kao kume ili kuma javnite nam se u inbox, biti će nam čast predstaviti joj vas"
+    },
+    {
+      "id": 4,
+      "name": "Krsto",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/123136898_1808846865944742_2010846319593532941_n.jpg",
+      "description": "Evo ga! Naš prelijepi veliki dečko. Sva zaljubljena vas upoznajem sa Krstom, šarmerom teškim, da je čovjek bio bi George Clooney 100% Onak, premda mlad tu i tamo koja siva vlas, ko da ga je neka fensi frizerka sredila samo za ovo upoznavanje. Sav kao šutljiv al kad progovori primjetiš. Onak impozantno visok, ne previsok neg taman da ti imponira kad šeće kraj tebe. Nimalo svadljiv neg uvijek skloniji mirnom pristupu al kad ga vidiš ni nije ti do svađe - to pričam o ostalim kerovcima - neg ti dođe da mu klimaš glavom i slažeš se sa svime što kaže. Frizura onak, ko fol taman se probudio, znate ono kad frajeri vole izgledat ko da ih baš briga kak izgledaju a zapravo je to pomno sve isplanirano. Sav taj šarm momka koji je odrastao na ulici al ga vlastiti interesi pomno sofisticirali. Et, kad vam kažem - ne gine vam da se zaljubite, ja već jesam. Dođite da vas i uživo upoznam, znaš kak je teško ovak na sliku samo - a njegova je, majkemi - pokazat se savršenim - što on i jest! Stojimo vam i u inboxu za sva moguća pitanja - kao di se školovo i tako to - a ako vas je i preko slike već malo načeo pa de mu barem kumujte. Svi kerovci dobiju kume, pa valjd će i on. Uglavnom javnite nam se u inbox i sve izdogovaramo."
+    },
+    {
+      "id": 5,
+      "name": "Žorž",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/122173092_1797544810408281_1398657928709075902_n.jpg",
+      "description": "Aj zamislite psa koji se zove Žorž! Jel da bi baš točno vako izgledao?  Žoržika je štene zapravo - iako nije štene - a ja sam očarana tom šteneće kerećom facicom i svim onim mislima koje se roje ispod nje, svaka mi se dosad dopala. Očekivo bi čovjek od malecnog mini terijerčića poduzetniji duh, ono da ti se barem na glavu popne ak ništ drugo al Žoržu to sve bezvezika totalna, on je mazan lik, neko ko drži do obitelji i tak to, samo da mu jednu još nabavimo i sve će bit okej. Rodio se 2015. godine i to u mjesecu koji rađa sanjare pa otud ovolko lijepe okice nemaš ga šta vidit. Čeka vas u Azilu ko ozebli sunce a ugrijat ga možete i kumstvom ak vas je pogodio ravno u sridu. Samo nam se javite u inbox i sve će da se dogovorimo."
+    },
+    {
+      "id": 6,
+      "name": "Tvrtko",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/121161020_1785283801634382_5698898234318818108_n.jpg",
+      "description": "Tvrtko se sredio za predstavljanje. Nabacio leptir mašnu samo da vam pokaže koliki je on gospodin. Priznajte da mu dobro stoji crvena boja. Rodio se prošle godine, da preciziram 2019. nekako u ovo doba, pa je i sam poprimio jesnji ton prošaran sa tu i tamo kojom bijelom flekicom. U svojih godinu dana koliko ima, naučio je biti savršen, sve si mislim da se baš takav rodio! Dodjelili smo mu titulu dobrog diva, kao onog iz bajki koji uvijek pomaže glavnim akterima, samo što je u našoj Azilbajki Tvrtko glavni akter priče. Tko god ga je upoznao ima samo pohvale za njega, pa red je da ih vam prenesem. Blagog i pomalo plahog karaktera, skriva u sebi golmu strahova, ali neće to naglas priznati, pa hrabro korača kroz svaki dan. U šetnji aspolutno savršen bez konkurencije, hoda uz nogu, ne vuče niti malo, pristojan i poslušan, pa se svi iz šetnje s njim vraćaju zaljubljni preko ušiju. Narastao je poprilično, nije se dao smetati  kako mi kažemo, velikog je rasta, ali jednako toliko, pa čak i većeg, srca. Karakter mu je as u rukavu! Staložen i umiljat, beskrajno mazan i željan dodira i igre. Svaki put kad ga sretneš ukrade ti komadić srca, pa mu se vraćaš sve češće i češće i ne smeta ti što ćeš i njemu pokloniti čitavo svoje srce. Znam da se negdje krije Netko tko želi Tvrtku pružiti svijet na dlanu, pokazati mu sve radosti života i biti samo njegov zauvijek! Pa ne stidite se javiti mu se, vjerujte mi, tako je lako. Prve na njega su pale kume Jelica Marinović i Darija Skeledžija, a on jedva čeka da im javi najljepše vijesti, da ih pozove na kavu u svoj novi dom i da se skupa vesele"
+    },
+    {
+      "id": 7,
+      "name": "Nesa",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/121165531_1785133338316095_5565581209525762026_n.jpg",
+      "description": "I tako, idu dani, idu godine...i nekad se desi da ih protraćiš bezveze... Pa se vratiš u Azil. Ono kad hodaš u krugovima .. Nesa opet živi u Azilu, šta da vam kažem...nisu se skontali. Očito nisu bili oni pravi, pa ne gubeć nadu opet vam predstavljam ljepoticu dostojnu truda, doduše malkoc uzbudljivijeg karktera, recimo ne možete imati pernate životinje u kućanstvu jer Nesa odbija sprijateljit se s njima i definitivno morate bit sportski tip jer Nesa ima energije koju voli potrošit u šetnjama i u igri - pa kad je svijet veliko mjesto! Rodila se 2017., i do sad nije imala sreće u životu. Al definiraj mi sreću, reče ona kad smo se dogovarale o tome kako da ju predstavim. Nije sreća ni prva ni druga ni treća nit su to ispunjena očekivanja, nego je to suživot, slušanje, gledanje i volja da se promijeniš zbog tog nekog čiji glas voliš čut pred spavanje i nijedan drugi te ne može u san poslat. Et, to vam je Nesa, mudra i voljna radit na sebi. Dvaput već ostavljena i šta god ona mislila o tome, ja svejedno vjerujem u treću sreću. Nesa nema ni kumu pa je opet traži, da barem malkoc amortiziramo ovo vraćanje u Azil, želite li taj speš rilejšnšip s njom javite nam se u inbox, a tamo u tom inboxu čekamo vas i ko ozebli sunce da se javite sa željom da vas upoznamo"
+    },
+    {
+      "id": 8,
+      "name": "Milana",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/120790460_1782491191913643_1105715501490317166_n.jpg",
+      "description": "Upoznajte Milanu, dragi moji ljudi jer je Milana jako nestrpljiva i jedva čeka da vam se predstavi. Vi za nju značite izlaznicu iz Azila pa me molila da pišem o njjoj lijepo, najljepše i oću, kako ne bih kad je pored ovakve ljepote, o ljepoti ne pisati - grijeh! Milana je mlada cura rođena kad i prve tratinčice ove godine, i zato su i bile proljetos sve onakve nikakve kad je gospoja Radost svu ljepotu potrošila na MIlanu, pa malo toga ostalo za cvijeće. Sva je elegantiš, i to ne samo izgledom nego i kretnjama, onako puma style a opet nekako zeru i šteneći, šlampasto  Taman da te fino zasvrbi po srcu pa da se zatelebaš - to su ti rođeni u proljeće, čuda srcu rade! U svakom kerovcu pronađe prijatelja, i tako ju je mater učila i tako je dobro i pošteno u kerovaca nema  zlih ljudi - i dušu bih griješila kad bih rekla da na ovom svijetu postoji itko koga Milana ne bi volila. Taka je, rodila ju majka. U šetnjama je savršena, svi ju hvalili. Ima sada već i svoje fanove koji dođu pa bi baš nju prošetali, al zamislite kad biste baš VI mogli bit ti koji bi je stalno šetali, na tugu i jal cijelog komšiluka što nisu prvi došli u Azil po nju. Da, mislim da biste imali savršeno dobrog psa i da ćete mi jednog dana biti zahvalni ako sam vas sada nagovorila na nju. Biti će srednjeg rasta, onako malkoc samo poveća al otud i ta smirenost karaktera, veći psi uvijek su mirniji, oni se ne moraju dokazivati. Milana bi rado imala i kumu il kuma, imaju svi pa bi ona U oba slučaja javite javite se u inbox, bit će pre hepi kad joj kažem da ste ju poželjeli baš zato jer je savršena"
+    },
+    {
+      "id": 9,
+      "name": "Marita",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/120571444_1778459918983437_5067676593593693863_n.jpg",
+      "description": "Ajte da vas upoznam sa jednom divnom curom finom. Zove se Marita i od nedavno je stanovnica najljepšeg grada, Azilgrada! Rodila se krajem 2019.godine, kad je ova luda 2020. bila tek u najavi i nismo znali šta nas čeka  A nismo ni znali da ćemo baš ove godine upoznati najveću veseljakušu međ veseljakušama! Nema ni punih godinu dana, prevazišla je pubertetsko ludilo, ali zadržala dječji šarm. Iako je gotovo odrasla, u njoj se s vremena na vrijeme probudi pravo štene, pa se igra ko luda, povuče te za pertlu tek toliko da skreneš pažnju na nju, trči za tobom i ne da ti mira jer te želi omesti u svakodnevnom poslu i natjerati te da se družite. Pa se veseli svima i svemu, svi su joj prijatelji i prijateljice, ne bira društvo, samo se prilagodi pa osjećaš kao da je oduvijek tu, kao da se poznate čitav život, kao da ste najbolje prijateljice odmalena. A baš tako se osjeća i u društvu svih kerovaca, njoj svi odgovaraju, a najviše oni s kojima se može igrati čitav dan. Narasla je taman malo iznad koljena, rekli bi srednjeg rasta, naginje ka većem, ali za taj rast fali joj koja kila "
+    },
+    {
+      "id": 10,
+      "name": "Beni",
+      "age": "2013.",
+      "imgURL": "https://www.pobjede.hr/images/120457493_1775268995969196_625401611282012410_n.jpg",
+      "description": "Beni napreduje svaki dan i sve više! Kad smo ga dovele u Azil, ono nemaš ga šta vidit al aj ga probaj pipnit. Pa smo ga mi pipale svejedno jer ono - nije da je velik pa daš ostat bez ruke, bilo je pitanje kojeg prsta samo - pa je on ispočetka mrgudao i bunio se, al eo - sad nam se već smiješi. Beni je rođen 2013. sedam godina turbulencija - od svega do ničega i eto ga - u Azilu, tu di završe svi oni koje netko nije dovoljno volio. Al zato idućih 7 čuva za one koji će znat reć 'majkemi' i pri tom mislit zazbiljski, jer reć može svako - ponekad se šokiram kakve sve stvari ljudi pljunu na usta - al treba znat održat riječ, treba znat šta ona znači, e pa takve Beni čeka. Šetnje već obožava! To mu je odma bilo po volji  I dobar je u njima, otkriva svijet, ili sve te male mikrosvijetove do sad mu uskraćivane, sad mu svijet izgleda veliko i sav je za šnjofkanje - i zapišavanje. Stalno nam se uvlači u kancelariju, nema podlake, to je, znam ja. I baš zato ne bismo voljeli da ga zima dočeka u Azilu. Baš zato bilo bi savršeno kad bi se ovajk malecni žućo negdje ovu zimu izležavao u toplom  umjesto da se sklupčava i drhturi u Azilu, znate - nemamo mi toliko grijanih boxeva kolko bi htjeli, kolko je potreba... Beni se polako upoznaje i sa ostalim kerećim svijetom, jedan je od onih koji puno pričaju al su zapravo u duši meki ko kruh pa nije svađalica, premda ponekad ostavi takav dojam, npr kad ga pokušaš vratit u azilski box, mislim pa i ja bi se bunila, da se ne lažemo. Samo nam dođite do azila da vas upoznamo il nam se javite u inbox imate li više pitanja o njemu"
+    },
+    {
+      "id": 11,
+      "name": "Taša",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/119450114_1761108507385245_5900708963805267744_n.jpg",
+      "description": "Keruša, majka, kraljica! Znaš, kad stigneš u Azil sa sedmero djece koju si rodila na ulici i pazila (i uspjela u tome!) da svih 7 preživi, pa im ljubila oči kad su se prvi put otvorile, krila ih od ljudi, sakrivala od njihovih namjera, puštala kišu da tebe smoči a njih držala suhe, oni bili siti a ti...e daaa, onda si kraljica! Taša je kraljica! Kad su nam tek stigli, svih njih 8, mala - doro ajd, malo poveća - obitelj, djeca sva zdrava i voljena i mama taša koja je navalila na hranu da smo joj morali uzimati hranu jer je, jadna, mislila kak je to to vjerovatno - uzmi dok ti nude, poslije neš imat. Sad se malo već opustila, premda mislim da bi i vrlo brzo opustila struk i odlučila da je bolje da ljulja dok leži u kućici, neg da žulja. Ljude - obožava! Tolko joj se dopala, valjd ta naša supermoć da ju možemo nahraniti kad god je gladna, da je totalno oduševljena nama! Prvi dan nije bila tolko oduševljena, na svaki šušanj je skakala, čuvala djecu ko oči u glavi al sad se poznamo i volimo. Uspjeli smo Taši osvjetlat obraz cijelog čovječanstva, nema na čemu. Sada dok je s bebama, Taša treba samo kumu jer zaista treba pomoć oko djece a za to kumovi i služe zar ne? Javite nam se pliz u inbox želite li ovoj mamici pomoći da dobro odgoji svoju djecu, da budu zdrava a mi ćemo pomoći da budu i sretna. Pa kad sva djeca odu od kuće onda ćemo i Taši tražiti dom, ova dvogodišnja mamica zaslužila ga je, više no išta na svijetu! "
+    },
+    {
+      "id": 12,
+      "name": "Walter",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/119484187_1758241674338595_111415745441911519_n.jpg",
+      "description": "Pa nama u Azil (doduše čudnim putima  ) stižu samo predivni kerovci, eo ne znam kako to! Ma znam ja kako to, pa postoji samo jedan točan odgovor a taj je - svi kerovci su predivni! Walter je novak u Azilu i nije branio Sarajevo al znam da bi branio svoje ljude i pod cijenu života, tolko znam već sad nakon par dana jer je Walter nevjerojatno privržen pas! Znaš ono kad pas stalno uspostavlja kontakt s tobom, stalno za tobom al ne onak da stalno skače po tebi neg jednostavno odluči voljeti te i u tom ne popušta. E taki vam je naš Walter - i znate kaki je još? Mek ko duša na dodir!  et morala sam vam to reć. U prilog ovome kako je privržen govori i činjenica da je izbačen na jednoj žešće prometnoj osječkoj obilaznici i da je trčao za autom kao lud - iz kojeg je izbačen, pa smo i mi trčale ko lude, morale smo nekoliko puta zaustaviti promet koliko je on samo i samo htio njima i koliko je sve ostalo bilo nebitno samo da ih stigne. Nije. Srećom pa nije poginuo u tom pokušaju. I da, bilo je ljudi koji su stajali pa ispitivali naše cure jel to njima ispao pas iz auta pa ga pokušavaju uhvatiti, ne - kad nas vidite da glavinjamo za psom - pliz ne obraćajte pažnju na stupanj spretnosti - to smo samo mi koje pokušavamo da ne pogine ni pas a ni mi. Rodio se 2019., znači aman da ga ne morate previše toga o životu učit a taman da shvati šta mu pričate. Veličinom taman za zagrljaj - ono kad moš kerovca zagrlit kak bog zapovijeda. Sve ljude s kojima bi mogao poželjet živjet i koji ga žele upoznati prima uživo u Azilu pa ko brži..naravski, mi smo tu da vam odgovorimo na koje god pitanje imate o Walteru, u našem inboxu."
+    },
+    {
+      "id": 13,
+      "name": "Med Mex",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/118523860_1741668965995866_7103306282574273216_n.jpg",
+      "description": "Držali su ga u garaži. Izgladnjivali i tukli - kad kreneš rukom prema njemu stišće oči i diže usnu, valjd mu je više dosta svega - Kažu: jednog dana prestali su ga voljeti. Pa nisu znali kako da ga se riješe pa se obitelj posvađala između sebe oko načina 'rješavanja' Rexa iz kuće, sva sreća pa je jedno od njih bilo normalno pa je pozvala nas. Dalje ih ne treba ni spominjati, svakakve službe tamo bi imale posla, prevrnule smo nebo i zemlju da napravimo mjesto za njega, oslobodimo box jer nam je trebao stići agresivni veliki devetogodišnjak. Mi mu dale ime Med Mex - htjele smo da se rimuje sa Rex pa da odmah skuži da je to on a da ipak dobije novo ime jer dobiva nov život - a stigao nam beskrajno oronuo tip kojeg još uvijek - a tjedan dana je kod nas - nismo vidjele ni na tren da je sretan, da mu nešto okupira pažnju, da se zainteresira na tren barem..Zombi. To mu je gamad učinila. Da je zombi. Odmah, isti dan vodile smo ga na operaciju tumora, ogromnog tumora - veličine muške šake - analnih žlijezdi koji je svaki put kad siroče obavi veliku nuždu krvario i bolio. Ne mogu ni zamisliti tu bol. Bolan, nevjerojatno pothranjen i zatvoren u garažu, ostavljen da umre. I svi se nadaju da ćeš što prije to obavit da ne moraju 'prljati' ruke tobom... Uf, tu sam morala napraviti pauzu pišući ovo jer mi frustracija nahrupi na oči i usta, postidim se sebe koliko gnjeva imam u sebi i koliko nemoći. Ono što mogu jest pružiti azil nekome kao što je on. Med Mex. I dalje ostaje frustracija ali i nada da će sunce doći i do najsmrznutijih dijelova njega, da ćemo probuditi dijete i kera u njemu. Trebamo i vas da nam pomognete, obzirom da je Med Mex živi kostur - doslovno - hranimo ga 4 puta na dan i to pomalo i na imunoboosterima je, ako možete i želite kupiti nam dehidriranu hranu koju jedu naši najbolesniji trenutno, uključujući i Mexa javite nam se u inbox napisati ćemo vam koja je to - bojim se da proizvođač nije zaslužio reklamu, trebaju nam recovery konzerve jer ih miješamo sa dehidriranom da bi jeo - moramo ga moljakati za svaki obrok - i trebaju nam VMP - minerali i vitamini za pse, u kakvom god obliku al najbolji je baš VMP - pa nam pliz pomozite. Znam da mnogi ljudi brije da smo veliki i da nama ne treba pomoć ko ostalima al baš zato što smo veliki radimo i velike stvari i itekako nam treba pomoć i podrška da možemo sve ovo! Svaki dan ja vas upoznam sa novim psom, u prosjeku ih 40ak mjesečno dođe k nama i našu skrb i sami znate u kakvom stanju sve dolaze, dok drugi odbijaju pse sa slomljenim kralježnicama, eutanaziraju zbog 'neizlječivih' bolesti, agresivnosti i sl. mi baš s takvima najviše radimo jer takvi najviše trebaju pomoć! Pomozite nam da radimo ono u čemu smo najbolji!"
+    },
+    {
+      "id": 14,
+      "name": "Mala",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/119700279_1764533620376067_5501767788695619535_n.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Finč",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/118164874_1735839683245461_2127852924241352836_n.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Bigi",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/118223367_1734954196667343_8926229774457399769_n.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Katja",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/118083144_1734914250004671_142627021069750497_n.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Manolo",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/117708454_1731181303711299_6584113631969067201_n.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Robert",
+      "age": "2020.",
+      "imgURL": "https://www.pobjede.hr/images/117385323_1724502721045824_3173127212238550536_n.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Zenita",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/116330924_1714275848735178_4160618019018774440_n.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Zeus",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/106910783_1695758797253550_1083795733457477937_n.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Lidija",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/109901868_1707846309378132_3602877579639552225_o.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Bukowski",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/107745526_1695690003927096_3931897926856703256_o.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Lajka",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/105914292_1681893635306733_5783396921148280898_n.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Fran",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/106050183_1681877025308394_2228661287145458735_o.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Matea",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/85189214_1663866953776068_7542010636755009536_n.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Luđo",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/97642674_1648689615293802_8467713201578967040_o.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Tajo",
+      "age": "2020.",
+      "imgURL": "https://www.pobjede.hr/images/95737501_1633356666827097_3361179433766486016_n.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Darina",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/95369688_1629618673867563_7090148779789123584_n.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Rambolina",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/93425192_1620176038145160_6760290180445241344_n.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Tarzan",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/93378159_1620149288147835_6646279440349265920_n.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Marlon",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/93412170_1620072448155519_3072264091935440896_n.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Kristijan",
+      "age": "2020.",
+      "imgURL": "https://www.pobjede.hr/images/93322022_1616925885136842_2316908803473276928_o.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Đina",
+      "age": "2010.",
+      "imgURL": "https://www.pobjede.hr/images/93401160_1617102201785877_7088995928962498560_n.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Lemon",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/90929258_1595445247284906_3442381386839752704_n.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Ksenija",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/87583109_1568893829940048_3119085037962657792_n.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Nikoleta",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/80002407_1494652727364159_3933480501653798912_o.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Tonkec",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/77098945_1456109351218497_5292408124043427840_o.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Luna",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/79925208_1489149467914485_1334969938330255360_o.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Legica",
+      "age": "",
+      "imgURL": "https://www.pobjede.hr/images/78351427_1474956812667084_5600096085025488896_o.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Febo",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/79254191_1488665567962875_5034726441518891008_n.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Darkec",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/74604693_1456065171222915_7641936297891725312_o.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Paf",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/74692524_1449621651867267_5879212373071364096_n.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Aša",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/75392681_1448044258691673_7498299221280292864_n.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Garči",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/74332917_1444727125690053_3579340592464789504_n.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Reljko",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/72840454_1429454693883963_2168545523374489600_n.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Deni",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/69835310_1397038727125560_9122931842930966528_n.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Tina",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/72472524_1428165850679514_7351082856363327488_o.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Žani",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/71795714_1422316624597770_5513826822162219008_o.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Nola",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/72383322_1419844878178278_5346712062741446656_n.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Čarli",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/70817235_1407327612763338_2809245659142553600_n.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Prle",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/67703561_1355099641319469_1115114973379428352_o.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Nomi",
+      "age": "2019.",
+      "imgURL": "https://www.pobjede.hr/images/93531130_1620130284816402_5174184768354385920_n.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Medo",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/67161708_1349298085232958_622351030457204736_o.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Madre",
+      "age": "2010.",
+      "imgURL": "https://www.pobjede.hr/images/61874549_1313384065491027_8692974095836381184_n.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Timoti",
+      "age": "-",
+      "imgURL": "https://www.pobjede.hr/images/60060842_1295774213918679_8590259132613787648_o.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Marfi",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/56790790_1274977505998350_4485219581115236352_n.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Betoven",
+      "age": "2009.",
+      "imgURL": "https://www.pobjede.hr/images/55625684_1261736750655759_6851872270609022976_n.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Asko",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/52550185_1235110856651682_1484001322066771968_o.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Rex Mali",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/52134244_1235093023320132_3707947456793673728_n.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Mašica",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/50914613_1222377707924997_928014215006912512_o.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Švabo",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/47089548_1179397745556327_3894869694850531328_n.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Vali",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/45486010_1164581607037941_1576028516871307264_o.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Eska",
+      "age": "2018.",
+      "imgURL": "https://www.pobjede.hr/images/43119274_1144812679014834_6099924235537350656_o.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Vali",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/39252933_1112495918913177_3798162085204983808_o.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Lavi",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/38212379_1095451570617612_4224026453588574208_o.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Bard",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/37946326_1092038477625588_2035416612533698560_o.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Aleks",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/32603676_1027416800754423_1239064839028998144_o.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Azriel",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/30656503_1010651365764300_7330686262833053696_o.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Fabricio",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/28516485_989418901220880_1973038991017793577_o.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Tedi Junior",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/36137153_1056129731216463_4811172929905623040_o.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Roki",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/24296370_937588043070633_1861433018400661432_n.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Ten",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/23926326_934198270076277_1459797518292493366_o.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Zen",
+      "age": "2008.",
+      "imgURL": "https://www.pobjede.hr/images/23509027_929232317239539_6204380968532954560_o.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Imre",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/23376263_928301647332606_8204041798181569183_n.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Doni",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/22459508_914677128695058_3160197954319121692_o.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Lale",
+      "age": "2011.",
+      "imgURL": "https://www.pobjede.hr/images/21369128_897870863709018_5433550113365225094_n.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Ben Bronson",
+      "age": "2012.",
+      "imgURL": "https://www.pobjede.hr/images/21192766_895522427277195_4759690773252997310_n.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Šuška",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/36367165_1059617134201056_1010411294269898752_o.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Upsi",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/20429696_877055842457187_3658889712858664044_n.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Žak",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/29496008_998163370346433_4861377017376931840_o.jpg"
+    },
+    {
+      "id": 82,
+      "name": "Amila",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/20155746_872050162957755_4344782529719999956_n.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Pucko",
+      "age": "2017.",
+      "imgURL": "https://www.pobjede.hr/images/28238346_981512742011496_1840858801375738048_o.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Nedo",
+      "age": "2007.",
+      "imgURL": "https://www.pobjede.hr/images/19059156_847551055407666_1955498640878350062_n.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Hari",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/18922016_845837738912331_8072240367620200251_n.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Nikolina",
+      "age": "2004.",
+      "imgURL": "https://www.pobjede.hr/images/18595489_839109389585166_4392453173457391408_o.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Python",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/18402235_832091333620305_8734096988314870659_o.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Vina",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/17834956_814754432020662_2910117619541578335_o.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Dana",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/96528274_1641319076030856_1730074382300086272_n.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Čika",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/95168083_1628662197296544_2503318484427997184_n.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Tijana",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/18954876_845814302248008_8186399985305264764_o.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Šiška",
+      "age": "2013.",
+      "imgURL": "https://www.pobjede.hr/images/15800528_760035367492569_2160786694093613320_o.jpg"
+    },
+    {
+      "id": 93,
+      "name": "Viola",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/viola.jpg"
+    },
+    {
+      "id": 94,
+      "name": "Pasko",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/26991787_965974533565317_5764780701025898455_n.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Miladin",
+      "age": "2012.",
+      "imgURL": "https://www.pobjede.hr/images/26685848_958221024340668_8073276059647088575_o.jpg"
+    },
+    {
+      "id": 96,
+      "name": "Cicibela",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/27545238_973339519495485_8630249528281423486_n.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Marks",
+      "age": "2016.",
+      "imgURL": "https://www.pobjede.hr/images/26238777_958745027621601_1160143027291668081_n.jpg"
+    },
+    {
+      "id": 98,
+      "name": "Alfa",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/ALFA.jpg"
+    },
+    {
+      "id": 99,
+      "name": "Bobi",
+      "age": "2004.",
+      "imgURL": "https://www.pobjede.hr/images/26756705_958822177613886_8877877097260015782_o.jpg"
+    },
+    {
+      "id": 100,
+      "name": "Paloma",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/paloma.jpg"
+    },
+    {
+      "id": 101,
+      "name": "Džekil",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/26232683_958756387620465_6638001399216621421_o.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Boško",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/BOKO.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Lola",
+      "age": "2010.",
+      "imgURL": "https://www.pobjede.hr/images/26240300_957912994371471_1790187440321160049_o.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Kseni",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/28423425_985460714950032_5835026420354616032_o.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Vana",
+      "age": "2015.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/12191857_557962291033212_3462034579646493151_n.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Šimun",
+      "age": "2014.",
+      "imgURL": "https://www.pobjede.hr/images/28870529_990690337760403_791702772054491136_o.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Čuču",
+      "age": "2014.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/UU.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Silver",
+      "age": "2013.",
+      "imgURL": "https://www.pobjede.hr/images/26815394_961836323979138_1815925431609667337_n.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Kaja",
+      "age": "2014.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/Kaja.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Plinije",
+      "age": "2012.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/pinije.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Nenad",
+      "age": "2012.",
+      "imgURL": "https://www.pobjede.hr/images/27709637_973361129493324_7145643525676346116_o.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Kiril",
+      "age": "2012.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/kiril.jpg"
+    },
+    {
+      "id": 113,
+      "name": "Ada",
+      "age": "2012.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/ada.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Margita",
+      "age": "2006.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/1378432_10201202400314595_980846300_n.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Radojka",
+      "age": "2011.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/Radojka.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Crna",
+      "age": "2008.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/CRNA.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Milica",
+      "age": "2011.",
+      "imgURL": "https://www.pobjede.hr/images/28335920_981463135349790_5676870266876431572_o.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Minka",
+      "age": "2011.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/MINKA.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Karolina",
+      "age": "2007.",
+      "imgURL": "https://www.pobjede.hr/images/stanovnici/KAROLINA.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Filipa",
+      "age": "2005.",
+      "imgURL": "https://www.pobjede.hr/images/27368522_968789883283782_979606882922276668_o.jpg"
+    },
+    {
+      "id": 121,
+      "name": "Tiki",
+      "age": "2007.",
+      "imgURL": "https://www.pobjede.hr/images/644213_3973328044129_1844220404_n.jpg"
+    }
+  ],
+  "dogsInHome": [],
+  "dogDetails": [],
+  "adoptionData": [],
+  "membershipData": [],
+  "blog": [
+    {
+      "id": 1,
+      "content": "Biti će ovo, čini se, serija reportažnih bilješki iz cijele nam Slavonije i Baranje (nadam se da dalje od tih geografskih okvira nećemo ;) ), jer ispade, eto - da mi svašta radimo, a malo se time po fejsbuku falimo, odnosno većinom vi vidite samo slike pasa koji traže dom, a sve ono što prethodi tomu postu ostane samo prepričano za našim azilskim stolom :) Pa eto od sada ćemo se truditi malkoc više; čitav putopis, i čitavu priču koja prethodi onom slavnom textu: '..ova prekrasna curica traži dom...' prepričavati i ovdje na fejsu, da vidite i pročitate kako naš svakodnevni angažman naveliko prelazi okvire azilskih ograda. * za neznalice - 'kedika' je popularan naziv (međ volonterima) za starog folksvagen kedija, koji nam vjerno služi :) (koliko će još - ne zna se;)).",
+      "content2": "E, pa evo priče iz Antinske Mlake: dakle, nakon nekoliko razmijenjenih telefonskih poziva s tetom koja nas je zvala iz gore imenovanog sela (teta ima problem sa psima, to ste pretpostavili; ima svoja2, i još2 pridošlice za koje niti selo, niti tetin suprug nemaju previše razumijevanja, teta živi u iznajmljenoj kući, i još ima i štene maleno (koje gore nismo ubrojali među onih četvero) koje je do toga jutra uspješno uspijevala sakriti od muža :) Štene je dijete od pridošlice, i također hitno treba novi dom.) zaputismo se u Antinsku Mlaku. Dočekala nas preljubazna i draga teta, mala bebica,majka bebice,3 potencijalna oca bebice, koza i jarac :) Naravno da su najviše oduševljenja u Klare i mene izazvale baš koze, odhranjene na bočicu uslijed smrti im majke pri porodu. a oduševljenje je bilo obostrano jer me jarac popiškio u prve3 min maženja. teta kaže od sreće ;) ja teti bijah spremna povjerovati u sekundi kao i njemu oprostiti taj pokušaj diverzije jednog aktivističkog poduhvata ;)",
+      "content3": "Da sad malo skratim i zainteresiram vas za srž priče - dakle, teta živi u selu prema VK, u koje ljudi neprestano izbacuju pse. to smo odavno naučili - što je selo zabačenije ljudi bez srca ga radije izabiru za izbacivanje na cestu svojih negdašnjih članova obitelji, njihovih pasa. pa je tako i naša domaćica prvo hranila ispred svoje (i u tome je problem što kuća nije njena) kuće sve te lutalice, pa su neke polako ušle i u njen dvor, pa je tetin muž gubio živce, pa prvi susjedi..i znate kako to sve ide - teta nazvala nas. Bebicu smo udomili odmah idućega dana, maleni dečko dobio je svoj dom prije nego li smo ga uspjeli na fejsu i oglasiti :). Njegova majka (koju imate priliku vidjeti na slikama dolje), kojoj je to zasigurno prvi okot, jer po našoj procjeni nema niti godinu dana, također bi voljela imati dom, i svoje ljude. Jako je malena, nevjerojatno umiljata i slatka. Bila bi, vjerujem odlična sudružnica u stanu:) Ona se kod tete zove Kujica:)) Brundo, ovaj kovrčavac sa slika posljednji je preživjeli iz ugašene firme nedaleko tetinog mjesta življenja. naravno, nije imala srca ostaviti ga da i njega (baš kao i poduzeće) likvidiraju pa ga je 'sklonila' u svoj dvor. Brundo ima oko2 godine, jako je društven i razigran, obožava ljude, druge pse i koze:) pa, eto, ako se pronalazite u nečemu od toga zovnite nas, Brundo jedva čeka da vas upozna ;)",
+      "content4": "Obzirom da je Azil u fazi (da, ta faza traje 100 godina i nama je prvima muka od toga) registracije u sklonište, i imamo rješenje po kojemu ne smijemo primati pse u Azil dok se ne regestriramo (ah, kolko puta na dan izgovaram ovaj text :( ) teta će brinuti o njima, dok im se ne pronađe dom za zauvijek.",
+      "content5": "Napomena; koze nisu za udomljenje, one su tetine ljubimice, dom traže malena Kujica i Brundo."
+    },
+    {
+      "id": 2,
+      "content": "Kao i svako nedjeljno prijepodne krenula sam u azil. Samo što sam parkirala stiže neki auto s dva gospodina. Pošto sam vidjela samo njih dvojicu ponadala sam se da se radi možda o budućim udomiteljima. Ipak,krivo sam se ponadala jer kada je jedan otvorio vrata, kod nogu, na prednjem sjedalu, drhtao je jedan mladi, crni koker španiel. Ženkica je bila stara nepune dvije god., drhtala kao najtanji prut, a oči joj su imale najnježniji i najtužniji pogled.",
+      "content2": "Radilo se o jednom starijem čovjeku i njegovom sinu.Razlog napuštanja je bio da već imaju dvoje kokera te da im je ova kokerica previše(jer gospodin je star i bolestan) te ako ju mi nećemo uzeti odvest će je kod veterinara na uspavljivanje!Jedva sam ih pokušavala urazumiti da trenutno ne smijemo primiti niti jednog psa zbog inspekcije, a da je USPAVLJIVANJE ZDRAVOG PSA PROTUZAKONITO i NEDOPUSTIVO, te ih molila da ju zadrže kod sebe još par dana dok ne pronađemo udomitelja!Uslijedilo je uobičajno ''natezanje'' ,te nakon izjave o kokerici , jednog od gospodina, ''TO je moje vlasništvo,ja s tim mogu što hoću!'' , unatoč ljutnji i frustraciji koju sam tada osjećala, uspjela sam ih ipak urazumiti te su obećali da će malena biti još koji dan kod njih ali da inzistiraju od udomitelja da im plate za cijepljenje i čipiranje. Cijelo to vrijeme mala kokerica nije prestajala drhtati i bilo je vidljivo da ne vjeruje čovjeku i da se boji ljudi kod kojih je bila.",
+      "content3": "Neprestano sam se brinula jesam li ispravno postupila što sam ju ostavila tim ljudima i hoće li ju uistinu zadržati još par dana. Nisam puno razmišljala.Nazvala sam kolegu volontera i zamolila ga da odmah sljedeći dan odemo po kokericu!Sjeli smo u auto i pravac za Borovo! Kada smo stigli,ljudi su bili iznenađujuće ''normalni'' (za razliku od prijašnjeg nastupa) i,aleluja, nisu tražili novac( a ne bi ga ni dobili!, možda su se predomislili kada su vidjeli mog opasnog kolegu:)) ). Uglavnom,našli smo tamo još par kokera u nekakvom ograđenom dvorištu i shvatili da ih ustvari uzgaja i prodaje (na crno pretpostavljam).Malu kokericu izgleda nikome nije uspio prodati jer je malo sitnija i bila je jednom skotna pa nije znao više što će s njom.Uzela sam ju i konačno je bila na sigurnom.:)",
+      "content4": "Ipak sve je prošlo ok.Uzeli smo kokericu i krenuli kući.I dalje je drhtala..u autu me pogledavala svaki put kada bih ju prestala maziti jer valjda je prvi put osjetila da je netko nježan prema njoj... U međuvremenu se javila jedna djevojka kako bih ju udomila! Išla je ravno u svoj novi dom!:). Jasno mi je da se ljudi danas svakako snalaze da bi došli do novca ali uzgajati pse!?I to bez imalo ljubavi i osjećaja prema tim životinjama, gledajći na njih samo kao na stvari koje su izvor zarade..te ih ići ubiti kada postanu višak!?Koliki dio čovjekovog srca mora okameniti da bi mogao to raditi.. Mala kokerica Brita sada je sigurna u prekrasnoj obitelji i konačno živi kako je zaslužila-okružena brigom i ljubavlju! Ima i novu prijateljicu macu! :)  Njezinim kokerima, nekadašnjim prijateljima, želim svu sreću..",
+      "content5": "Ova priča ima sretan kraj ali još uvijek ima i puno nesretnih završetaka.To se može promijeniti ako postupite kao ova djevojka i njezina obitelj i kao još mnogi koji udome napuštene pse.Šinteraji su puni pasa kojima otkucava život baš kao što je bilo i sa malom kokericom...zato  NE KUPUJ, UDOMI !!!"
+    },
+    {
+      "id": 3,
+      "content": "Jučerašnja večer (2610.) nije bas bilo mirno za volontere. Oko 21 sat pobunio nas je poziv djevojke koja nas je zvala sa Trga A. Starčevića. Naime, ona je jučer kada je išla na posao naišla na malenog psića zavezanog za ulaz u podhodnik. Pomislila je kako su ga njegovi ljudi vjerovatno zavezali dok su skoknuli u trgovnu, pomazila ga i otišla raditi.",
+      "content2": "Kada je na kraju smjene prolazila pored istog ulaza, taj je isti pas bio još uvijek zavezan.... U šoku nas je nazvala i molila za pomoć. U roku10 minuta nas smo dvoje bili kod kazališta, parkirali, i dobili novi poziv od dečka koji je bio pored psića i tvrdio da je taj pas zavezan još od prijepodne. U roku par minuta bili smo kod njega. Smišljali smo moguće scenarije u kojima bi ovo bila nesreća, a ne horor kojeg smo se bojali. Čim sam uhvatila povodac i odvezala ga, skočio je na mene jer,bože, idemo u šetnju :).",
+      "content3": "U auto je uskočio, sklupčao se i za minutu zaspao. Veterinar nam je očitao čip, i eto ti scenarija ; pas se zove Vito, poznat Tvrđi i centru, jer ga njegovi ljudi stalno puštaju da luta sam. Mi samo znamo za3 puta u kojima je vraćan svojim ljudima, a pitaj boga koliko ga je ljudi na svoji inicijativu isto tako varćalo kući. Vitu smo odveli kući, tj on nas čim smo izašli iz auta u Tvrđi. Kucali smo, niko nam se nije javio. Vito je u hodniku zgrade legao na svoju dekicu, pored svoje dvije zdjelice i zažmirio.",
+      "content4": "Osjećali smo se jako loše odlazeći. Koliko će puta još Vito sam lutati, prelaziti cestu i misteriozno biti vezan pitajboga gdje? Inače je pas za poželiti. Obitelj ga je već jednom prilikom htjela ostaviti u azilu tako da bi ga vjerovatno rado dali nekome.",
+      "content5": "Mi bi voljeli vidjeti Vitu u sretnijoj priči. Tamo gdje u šetnju ne ide sam i ne provodi dane vezan za ulaz u podhodnik."
+    },
+    {
+      "id": 4,
+      "content": "Ma ne biste vi vjerovali, zapravo, što mi to sve radimo;  kakve pozive primamo, kakve zahtjeve, prohtjeve, kakve gadosti ( kada mi se grlo stegne , šake još više ..). I sad naravno slijeda jedna priča baš iz takvih redova: Dakle, zazvoni telefon (naš službeni svakidašnji J ) i zove nas Mirjana iz Daruvarskoga Azila (Mirjana je inače super cura, da ne pomislite nešto loše, jer nije ona ta koja mi je digla tlak, o nou), i priča:",
+      "content2": "upravo ju je kontaktirala policija iz  Budimaca (20ak km od OS) jer je jedan lik (ne znam kako da ga zovem u textu, jer gospodinom sigurno neću ;) ) završio u zatvoru (u razloge  lišavanja njegove slobode nećemo, mislim, bolje ne..) i ostavio puna 3 tj zatvorenoga psa u kući (!) (to je Mirjana riješila pomoću policije, i sirotoga psa vratila u Daruvarski Azil iz kojega je i udomljen), i još 2 psa u dvorištu kuće.",
+      "content3": "E, sada dakle, tu mi trebamo čuda učiniti jer Mr. Zatvorenik (eto imena, u sekundi :) ) je, pored svega u toj kući samo podstanar. Supruga i dijete smješteni su, nećete vjerovati, u Sigurnoj kući u Zg (skloništu za zlostavljane žene i djecu), jer je dotični i njih „posjedovao“. Možete misliti kako su psi prolazili L. Mi, već mjesecima u pat-poziciji, jer NE SMIJEMO primati pse u Azil po nalogu Veterinarske nam inspekcije (mi smo, jel, najveći negativci kojima su se mogli pozabaviti, samo zato jer udruga prije nas nikada nije ishodila registraciju skloništa).",
+      "content4": "I što sad? Klara i ja posjetismo prve susjede, i zamolismo ih da psima, koji sada moraju ostati u dvorištu, svakodnevno daju svježu vodu i hranu (koju smo mi donijeli). Srećom, eto, susjeda je divna, muž baš i nije (histerično nam je telefonirao nekoliko puta sa stavom da on ne mora i ne želi brinuti o tuđim psima), i uspijevalo je 2tj.",
+      "content5": "Onda smo nas 2 opet Kediku zapalile do Budimaca, odnijele hranu, poslikale pse, i dan nakon nazvao nas je vlasnik kuće s informacijom da je kuća prodana i da psi imaju još 2tj. fore boraviti u tom dvorištu. Mi nemamo kud s njima. Oni sami nemaju kuda. Budimčani nisu oduševljeni idejom da im ta dva nesretnika lutaju selom. Već prijete trovanjem. Eto, nemamo ništa osim apela na nekoga od vas. Ne morate imati veliki stan ili veliko dvorište. Samo veliko srce. Potencijalne udomitelje molim da se jave na 095 87 230 87 (službeni broj udruge)"
+    },
+    {
+      "id": 5,
+      "content": "Nedjelja nije dan kada se volonteri odmaraju. Ova je bila posebno teška. Nakon dojave da se u Koprivni, pokraj Šodolovaca, na groblju, pored kojega se upravo gradi crkva, nalazi kujica koja povraća krv i već para dana ne djeluje dobro, i nakon što smo shvatili da joj nitko drugi neće pomoći, zaputile smo se tamo. Ono što smo zatekle bilo je gore nego smo zamišljale..",
+      "content2": "Ispod najlonom pokrivenih dasaka, ležalo je, već skoro sasvim klonulo biće, u lokvi krvi koju je iskašljavala teškim naporom hroptajući. Počele smo micati najlon i daske, pri čemu se ona od straha ustala i izišla. A to je tek bio prizor... Sjena od psa. Kuštrava bijela dlaka, umrljana krvlju i piljevinom, kroz koju su izvirale same kosti. Naravno bio je tu i krpelj veličine nokta. Potpuno izgladnjela i dehidrirana, već blijedog zubnog mesa, guši se u krvi kojom su joj se napunila pluća.",
+      "content3": "Umotale smo ju u deku i zaputile se u Osijek, hitno veterinaru, ne znajući hoće li izdahnuti svakoga trena koliko je kašljala i patila se. Nas dvije uplakane i s knedlom u grlu, želudac ti se okreće od smrada krvi u autu, a ona nas gleda, jedva dolazeći do zraka, ali mirna. Potpuno se predala, šta bude-bude.",
+      "content4": "Analiza krvi pokazala je da je otrovana. Sve što može u krvi biti nisko, njoj je i ispod te granice. Da, to joj je napravilo neko zlo ljudsko biće, tamo, na groblju, pokraj crkve. Ubojicama ništa nije sveto. Izgubila je već previše krvi. Jedino je njezina tjelesna temperatura pokazala tračak nade. I njezine oči kojima nas je i dalje gledala ne shvaćajući ništa, ali stalno smo ju milovale i pričale joj da će sve biti u redu, dok je primala infuziju, protuotrov, lijek koji će zaustaviti krvarenje, lijek koji će zaustaviti kašalj, vitamin B12, antibiotik jedan pa drugi...",
+      "content5": "Veterinar je učinio sve, dao nam daljnje upute za nadolazeću noć i čak bio i optimističan, što je i nama vratio vjeru nakon prvotnog šoka. Nazvali smo ju Aska. Aska je sada smještena kod volontera, u korpu na mekane jastuke i dekicu, na toplo. Tijekom noći će dobivati infuziju, protuotrov i sirup svaka4 sata. Ova noć i sutra biti će najteži, zato sjetite se Aske i pošaljite joj pozitivne misli, a možete nam naravno i pomoći oko Askinog oporavka, liječenja i udomljavanja (da, vjerovat ćemo i u to)."
+    },
+    {
+      "id": 6,
+      "content": "ee, niste valjda mislili da smo zaškrtili s pričama? kedikin kilometar sat ima toliko priča da vam ih mi ne stignemo sve ispričati. al evo mene, jedne od mnogih kapetanica i kapetana našeg starog umornog Kedike, da vam sklopim mnoštvo priča u jednu, da osjetite na tren kako izgleda kada vas dižu od ručka, s romantične večere u dvoje, kada pomislite da će te danas konačno otići pomoći mami riješiti stvari zbog kojih vas danima već zove a vi uvijek imate jedan jedini izgovor - Azil.",
+      "content2": "I tako unedogled, dok nam najdraži (nekada spremno, a nekada priznajem treba puno nagovaranja ;) ) praštaju, mi sjedamo za volan naše stare Kedike i nikada ne znamo kakav će biti ishod slijedeće priče. A priča je bilo, jako puno, od posljednjega puta kada smo vam o Aski pričali. I sad dok pišem ovo, ne mogu prestati smiješiti se jer se sjećam fotografije koju je Miriam, njena nova obitelj, poslala na kojoj Aska spava na krevetu i vidim na toj fotki – i ona se smješi. Zaboravila je, nadam se, ono groblje u Koprivni na kojem smo je pronašle u lokvi krvi. Ja nisam. Vrijedilo je tu nedjelju prekinuti ručak. Vrijedile su i suze. Netko tamo gore, tko je jako Asku, baš kao i mi zavolio, čuo je naše molitve. Sjećate se Arija? Malenoga mišića sa slomljenim zadnjim nogicama? Sjećate se potrage za kolicima, i kako je prvi puta uz pomoć dobrih ljudi, taj mali pasonja bio brži od munje :) izmjerio je ćaskom kvadraturu Azila,,e, i njega smo odvezli u ZG, i tamo već2 mj provodi u Fiziovet klinici gdje, opet, dobri ljudi daju sve od sebe kako bi on hodao i bez kolica. Mislimo na njega svaki dan. Ari.. Sjećate li se male Lune i Zare? Dvije malene sekice? Luna je slijepa, i nismo ih htjeli razdvajati jer su Lunine oči Zara. Pronađosmo im dom, tamo negdje u9.mj. i onda sam plakala,od sreće što konačno njihova priča ima šansu biti sretnom. Neki dan, dok sam bila u Azilu zazvonio je službeni telefon (od čije zvonjave već imam fobiju ;) ) i nećete vjerovati – ljudi koji su bili njihova obitelj posljednjih mjeseci, više to ne mogu biti. Da ne ulazim u njihove razloge, pitam vas možete li zamisliti kako je to otići po njih ( u Našice) i vraćati u neizvjesnu (opet) budućnost? Šta im reći? Kako im objasniti da nečija srca imaju ograničen kapacitet? I da je taj kapacitet, opet, ponovo, manji od azilskoga? Luna i Zara.. Naš Dado, opet je postao privremena majka ovim dvjema curama, jer u Azilu NEMAMO prazan box samo za njih2. Jel strašno reći da je olakšanje kada pomislim da Lunine oči nikada neće pamtiti ono što Zarine hoće; posljednji pogled na DOM. Niste stigli čuti niti priču o Bojani, i Bojanu? Al ako ste u posljednjih tjedan dana posjetili Azil, onda vam sigurno nisu promakli. Jer tko ne bi uspio primjetiti među već uobičajenim crnim, smeđim, žutim i bijelim ROZA psa? Pa, da, naše cure su izašle na intervenciju po dojavi komšijskih klinaca koji su prijavili zlostavljanje2 psa. Nekome (prijava vet. Inspekciji je u tijeku, znaju se počinitelji) je palo na pamet da su psi igračke, i objekti. Pa zašto ne bi djeca to pretpostavila kada su im roditelji kupili pse? I djeca znaju da se samo stvari mogu kupiti. Siroti su stigli u Azil dršćući, a mi smo danima skidali boju s njih, i Bojana je još uvijek roza boje. Saprati će se to sve, a ja poželim da je roza koja sigurno boja Bojanina očekivanja još uvijek na horizontima njene budućnosti. Sve što joj želim je roze kauč u nečijem domu. Izvukli smo i Minnie iz šahta. O, da, iz šahte, dobro ste pročitali. Srećom živa je i zdrava, čekamo da prođe tjeranje i ide put sterilizacije. U azilu se jako boji, jer je najmanja od velikih, i svaki puta kada zatvaramo kapiju na odlasku našim kućama, i našim psima koji nas nestrpljivo čekaju kod kuće, ne znam što bih rekla ni Minnie, ni ostalima zašto nitko više od njih ne može samnom. Minnie",
+      "content3": "Znate li kojim tempom naša srca kucaju kada naši psi prolaze tu kapiju, mi se uvijek ponadamo posljednji put? I probajte sada zamisliti jedan onako, poprilično šugav i mokar dan, nas3 još pokisliji vozimo se kroz4 sela, naime krenusmo u provjeru udomljenja naših bivših štićenika/ca. I sve ok, manje-više, negdje moramo inzistirati na poboljšanju uvjeta, ali imamo nade; kao, idući puta kad dođemo biti će stvari bolje. I onda,posljednja destinacija - ja ostajem u autu, jer sam već umorna od ljudi i molim Dadu da sam izađe (u daljini već vidim improviziranu farmu krava, i srce mi se steže jer sam veganka i sužanjstvo na koje sam već naišla u proteklih par farmi, koje smo taj dan posjetili stvara mi grč u želucu. Ina mi govori kako ovo silno blato koje nas priječi da se bliže autom primaknemo ne daje puno nade u Ogijev dobar život na ovom komadiću planete. Izdaleka iz Dadinog govora tijela, položaja njegovih ruku razaznajem da nešto nije u redu. Primičemo se obje i kadar (koji mi ni danas nekada ne da zaspati) u kojem Ogi zavezan jednometarskim lancem za kolac pored traktora, bez kućice, bez vode, bez hrane, leži u blatu… Poželjela sam zatući tog tipa koji je vikao za nama dok smo Ogija nosili u kediku. „ šta vi mislite kako psi žive na selu'“, vikao je za nama da smo bolesnici, i da nas treba sve pobit i nek odjebemo (oprostite mi na rječniku) s njegovog imanja i mi i taj štakor ružni. Ogi... A nije tako pričao kada je odvodio Ogija iz Azila, tepao mu je na putu do svog auta, i mi svi bili sretni što Ogi (koji je dobio ime po tome što je stigao u Azil sa urezanom ranom u vrat od ogrlice) konačno dobiva dom. Istu večer došla sam kući za komp, i na fejsbuku me dočekalo pljuvanje po nama. Neki tip je pljuvao po nama, bez ikakvih argumenata, napisao je da je nemoguće da ne krademo, jer svi na ovom svijetu rade stvari zbog koristi, a ne zbog ljubavi. Ugasila sam komp, i otišla spavati. Sanjala sam da si sretan, dragi moj Ogi. Slijedeće jutro dočekala nas je, ispred Azila, kutija sa4 šteneta u njoj. I tako još4 puta ovaj mjesec. Sve skupa 28 malenih uplašenih bića, kojima ne mogu garantirati da će biti nečiji. Ne samo moji, Zrinkini, Sonjini, Hrcini, Martinini, Inini, Dadini, Stelini, nego onako baš samo nečiji. Samo njihov kauč, samo njihova zdjelica, samo njihova šetnja. Samo njihov DOM. Sjećate se sigurno štenaca iz kanala, pa onih iz misnkoga polja? Maleni, svega nekoliko dana stari? Ne, oni još nisu vidjeli Azil zahvaljujući dobrim ljudima koji su bili spremni privremeno ih udomiti i još se nadamo da će ga zaobići. Stela i Edie, naši volonteri, sami su u prošloj godini imali preko 50 psećih i mačjih beba u svome domu, i uspjeli ih udomiti za zauvijek. Što mislite koji su njihovi motivi bili? Oni su jedinu grijalicu u stanu palili bebama, ne sebi. Štenci ostavljeni ispred azila",
+      "content4": "Hrvoje i Sonja su skoro udarili Kedikom na nemetinskoj cesti Naginija. Doveli su ga u Azil, i tu je već mjesec dana i ne prestaje se bojati, a ja ne prestajem misliti na one koji su ga toliko zastrašili, i utjerali mu strah u kosti od čitavoga ljudskoga roda. Nitko još nije pitao, od ljudi koji su došli vidjeti pse u Azil ne bi li ih udomili – a kako se ovaj maleni zove? Nagini. Helga je u karantenskome boxu; dovezli smo je sa starog Saponijinog pogona, kod Tenje, imala je sreću, jer smo nju mogli primiti (bila je trudna), njenog prijatelja Hogara nismo mogli. Još uvijek je tamo. Čeka neki auto, ovaj puta da ga odvede otamo. Hogar i Helga... Mirka je nastradala u svome boxu, a u Azilu živi već godinama, jer smo ovaj mjesec prepunili, opet Azil, i jer su tenzije zbog došljaka bile jako visoke, pa je eto, ona sirota nastradala. A kada vam mi kažemo da nema mjesta u Azilu pomislite kako, što? – ne da nam se brinuti o još jednom psu? E, svašta baš.. Mirka... Ramonu je pronašla jedna cura koja nas prati na fejsu i odmah nazvala; smrzle su joj se zadnje noge bile, pa nije mogla stati na njih. Klara ju je istu večer odvela svojoj kući, posvađala se po stoti put sa svojim roditeljima, i ujutro sam Ramonu vozila u Azil. Bero je lutao tjednima po gradu, pa kada nam se javio gospodin koji bi ga udomio, samo neka ga mi pronađemoi zadržimo; organizirali smo cijelu hajku. Ina ga je pronašla, odvela u svoj jednosoban stan u kojemu već živi s3 mace i psom, držala ga u kupatilu do jutra (jer je imao strašan proljev) i ujutro ga je Martina dovezla u Azil. Isti gospodin koji je potencirao njegovo „hvatanje“ kada ga je vidio uživo u Azilu pitao je: „a jel on nije čistokrvan?“ i tako je Bero još uvijek u Azilu. Žao nam, je svima, Bero, što tvoje šare ne stoje na pravim mjestima tvoga tijela. Razumiješ, jel da? Romana je tjednima oglašavana kao lutalica, i nitko živ se nije oglasio da bi je odveo svojoj kući. Mi smo je odveli svojoj – u Azil. Imala je ranu od metka u zadnjoj nozi. Oglasili smo je odmah i evo jednoga odgovora na 100 istih pitanja; jeli ona haski? – nije, cijenjeni gledatelji, nije. Romana",
+      "content5": "Šapicu smo vozili iz Petlovca u OS da mu amputiraju nogu, jer taj maleni sirotan je vukao godinu dana, i premda smo ga nekoliko puta dovozili u naš grad na liječenja nismo mu je uspjeli spasiti jer on je lutalica i nema nekoga svog da pazi na njegovu nogicu. Ima Marijanu, koja ga hrani i voli, ali Marijana ima roditelje koje ne uspijeva ubjediti. Poznajem puno takvih kao što je Marijana, ima i dobrih ljudi, znate? Za sve koji ne znaju Udruga Pobjede reagira na dojave za sve životinje. Pa su tako prošli tjedan naše cure spasile mačka koji je ležao kraj ceste i nije mogao micati stražnjim nogama. Dado je opet postao privremenom majkom, a mačak ima polomljenu zdjelicu i njegova obitelj ga više ne želi „jer ne mogu platiti njegovo liječenje“ pa će „ga eutanazirati“. Ma nemojte, a vama se živi, jel da? Živjeli bi i bez nogu i bez oka, i bez ruku al za mačka takav život „nije isplativ“. Liječili smo i malenu Lori, pronađenu obrijanog tijela, s ranom ispod vrata, ubodenog oka, kako se sve to dogodilo, zašto, nikad nećemo saznati. Najvažnije je da smo joj pronašli privremeni dom, sterilizirali i ona sada čeka da postane član nečije obitelji. Mačak... I nisu oni jedini koji u kućama volontera čekaju trajni dom. Na fejsu na Pobjede Za Mace možete pronaći fotke svih njih, i ako ne udomiti pomoći da se udome, barem dijeleći njihove slike. Znam da sve ovo što ste pročitali zvuči bedaroški, jer i je. Da, kao što sam vam i rekla na početku; nekada se poželim ne javiti na svaki poziv službenoga telefona, nekada nerado ostavljam nešto za što sam konačno uhvatila vremena, nekada plačem čitavim putem natrag u toj istoj Kediki, nekada imam i društvo za plakanje, pa plačemo zajedno, ali vam mogu reći jednu stvar a to je da ipak jedva čekam jutro da dođem u Azil, jer ovaj tjedan radimo na proširenju Tikijevog , Janjinog, Kikijevog, Igorovog i Miškinog boxa. Jedva čekam da mi se Lelica obraduje odmah po dolasku, da Snoopy dobije srčiku skoro , od sreće, kad čuje da Kedika stiže pred Azil, da pomazim Anku, i da popijem jutarnju kavu sa Zrinkom i Klarom i da ogovaramo naše kerove u Azilu :) Pusa od mene i moje Kokice koja strplivo čeka da završim ovu priču pa da se konačno izađemo prošetati :)"
+    },
+    {
+      "id": 7,
+      "content": "E, sad, evo mene opet s pričom; na žalost, i potpuno (vjerujem) očekivano s vaše strane – nimalo sretan razlog. Evo, hitnost me pribila za ovu tipkovnicu kako bi vam ispričala jednu priču za koju se nadam da će imati sretan kraj, i kako će Kedikom po svijetu br7 već veselo trabunjati, razbacujući se hrpom vedrih slika, o mojoj neizmjernoj sreći jer sam (tako česte sanje jedne volonterke) uspjela odvesti glavnu protagonosticu naše priče u njen novi dom.",
+      "content2": "Dakle, neko rano popodne prekjučer krećemo Dado i ja iz Azila, nakon Zima-Zima dana, još kao jedna intervencija pa ćemo se kuć grijat (svako svojoj, ne brinite ;) ). I tako ne odvezosmo Kediku negdje u neku slavonsku šumu ili baranjsko selo, pa ni na neki skriveni parking ;) nego u Keršovanijevu ul., u gornji grad. Onako poprilično živopisno odjeveni (maskirne hlače (ispod njih tajice pa čak i trenerka stane ;)) , prljave azilske jakne (azilske folklorne obleke žare i pale, vjerujte mi ;) )i takve nas u centru dočeka jedna jako draga teta koja je to jutro zvala da nas obavijesti kako u napuštenoj zgradi, preko puta njene, već23 dana boravi hrv. ovčar.",
+      "content3": "E, sad u takvim situacijama kada je Azil dupkom pun (o tome vas podrobnije izvijestih u posljednjemu broju Kedike), mi nemamo puno izbora nego se nadati da pas ima barem čip i kako negdje netko za njim plače i kako ćemo mi rješiti jednim potezom čitača čipova svu tu bol, i na opće zadovoljstvo psa, njegove obitelji i nas samih vratiti psa kući. Naravno, rijetko kada bude baš tako. Naravno, ovoga puta uopće nije bilo tako. Prvih pola sata uz prisustvo, gore već navedene, tete Silve pokušavamo „uloviti“ psa, i vijamo ga po cijelih 500tinjak kvadrata dvorišta, srećom, napuštene kuće. Bezuspješno.",
+      "content4": "Često sam imala prilike vidjeti pse kojima je ljudska grubost prisjela vjerojatno na nama nezamislive načine i znam da ovo „hvatanje“ dodatno traumatizira psa i u njegovim očima ljudski rod dobiva dodatne epitete kojih bi se mi, ljudi, svi skupa trebali posramiti. Pola sata i uspijevamo ga stjerati u njegov improvizirani zaklon i ono čega sam se osobno najviše bojala: On je ona. I tu mi se opet navlači mrak na oči, onaj isti mrak u okrilju kojega ljudi uvijek češće izbacuju ženke  (odjeci patrijarhata, jelte,  u našemu društvu), nerijetko trudne, i onda uvijek mislim kako je sad tim curama koje je čovjek šutnio van, poklonio im minuse na ulici, šintere, opake ljude koji će ih šutnuti, ne nahraniti (o, da i to često čujem – „ne želim ga/ju nahraniti jer će mi onda ostati pred mojom kućom“), nečije mužjake koje njihovi skrbnici ne žele kastrirati nego ga puste da se „iživi“ na nekoj jadnoj lutalici, i tako one jadne trudne, ili s malenim bebama čekaju novi horor ispred nečijih kuća i zgrada u kojima u  svoj svojoj „neimaštini“  ljudi sjede za svojim stolovima, jedu, piju, gledaju tv, zezaju se po fejsu, sve pored radijatora, peći, ali eto, nemaju dovoljno da bi to podjelili. S jednim gladnim, napuštenim psom. Nego im smeta jer je bijedu uvijek teže, čini mi se, gledati onima koji je nikada sami nisu iskusili.",
+      "content5": "I tako, proganja me taj par velikih uplašenih žutih očiju koji još uvijek sjedi u onom istome zaklonu u Keršovanijevoj ulici i čeka nekoga (ja zamišljam da nada u njima još uvijek postoji) tko će sve gore nabrojano spremno podijeliti s njom. Ne volim spominjati genetiku pa navoditi da se radi o hrvatskoj ovčarki (po mojoj procjeni ne starijoj od godinu dana)  jer misliti kako ona određuje išta više od izgleda je, po mome iskustvu bzvz (jednako je glupo tvrditi da kinezi ili europljani imaju ogromne karakterne razlike, osim što jedni jedu svinje a drugi jedu i svinje i pse (e, da to se zove kulturološka različitost, a ista stvar primjenjiva je i na pse), ali, eto ako vam fotke ispod ne posvjedoče o njenoj ljepoti, možda saznanje da je ona hrvatska ovčarka ipak uspije. Ne zamjerite na ovolikom negativnom naboju, ali opetovani scenariji iziskuju reakciju, a ona se izgleda baš u ovim putopisima ustalila ;) Ako netko poželi učiniti (ne)sebično djelo (vjerujte ljubav ovakvoga psa je neprocjenjiva) neka se javi Silvi koja je hrani na 098 795 072. Moja Kokica i ja opet šaljemo puse, ljubimo vas dobre,  prema ostalima ostajemo škrte ovoga puta ;)"
+    },
+    {
+      "id": 8,
+      "content": "hoho, pa da :) znate kada sam krenula jutros čistiti snijeg ne bi li snježne opsade oslobodila kediku? e, u9 i 15. a znate kada smo se dotaljigali do Azila? e, pa u podne. 'ooo, daaaa, svi redom su me zvali kako čiste cijelu ulicu ne bi li uspjeli auto istjerati van pa put do Azila, al eto nitko uspješan niiijeee biiioo osim Jelene i mene, naravno :) i tako, Zrinka zove kako ona i Romana  autom ne mogu ni prići Azilu (svi kasne jer se muče kod kuće) pa je i panika jer šta ako nas ne bude dovoljno pa ne uspijemo? i zakačimo mi na fejs kako trebamo svaku slobodnu ruku i lopatu i čudo kreće..",
+      "content2": "stižemo u Azil, nas5, pa odma iza nas stiže Stela i opet pun auto, pa stiže auto po auto. ljudi zovu telefonom jer su čuli na radiju, pa pročitali na portalima, vidjeli na fejsu da nam treba pomoć u Azilu. mi svi u čudu, kao: pa ko je obavijestio sve medije? i uskoro dobijamo odgovor po odgovor: sami su ljudi samoinicijativno obavještavali medije, kretali sami put Azila i dozivali još pomoći.",
+      "content3": "onak, krene mi srce čekičat u grudima, samo vidim kako stižu nove lopate, nove ruke, nova srca pred naš Azil. i to je baš taj osjećaj koji me drži i sad dok vam pišem ovo taj isti osjećaj koji me prije4 godine znao natjerat da iskopam2 boxa u jednom danu umjesto samo jednoga.",
+      "content4": "Anka, Mirka, Pei, Larisa, Uško, Tihana, Astor, Divljakuša, Zvončica, Bobo i Đurđica uspjeli su izaći ispred Azila, bilo nas je dovoljno da se kućice otkinu od snijega, počiste staze, psima da topla voda, da ih nahranimo toplim obrokom, pa eto i da se neke prošeta koji žive u malenim boxevima i nemaju gdje se malo razgibati. da ne bude smrzavanja. neke bebe azilske dan su provele na rukama novih volonterki, spavale san, onaj baš u kojemu ih sad odma još i kući odnesu al ne brinite, obećale su vratiti se i sutra :) i, eto, još je od katastrofalnog jutra punog panike i straha dan se pretvorio u zimsku idilu. a ta idila vam je odma tu, blizu, u Nemetinu, zamislite. ne morate na daleke pute, ne morate tražiti bjelosvjetska obećana zadovoljstva. cijela radost življenja nadohvat vam je zimskih guma :) u našemu Azilu :)",
+      "content5": "Nadam se da vas vidim sutra što više u Azilu, a ponijeti trebate samo ruke, srce i ako imate lopatu, bilo bi dobro ;) završavam citatom s bedža koji sam dobila na poklon a koji krasi moju azilsku jaknu: 'OSTAVIMO PESIMIZAM ZA NEKA BOLJA VREMENA'... pusa do sutra :*"
+    },
+    {
+      "id": 9,
+      "content": "Jučer (da, jučer, bome sam požurila ispričati vam ovu priču :) ) sam sa Zrinkom i Kokicom posjetila Nard (za one koji ne znaju to je malo selo prije Valpova), i tako nas tri kao predstavnice udruge za zaštitu i prava životinja stižemo prašnjavom cestom, kojom naš Kedika (gle čuda) piči ko lud, jer smo kontaktirani telefonom od strane jednoga starijega bračnoga para iz Narda čijemu mačku je netko, zamislite sad ovo – odrezao rep!",
+      "content2": "I kažu nam ljudi, preko telefona još, njihov mačak nije jedini u selu, čak u ulici, koji je preživio pakao, samo zato jer netko, tako očigledno, u tome malenom slavonskom selu, eto, nije normalan. I tako, ispričati ću vam priču o jednome posjetu koji je u meni izazvao puno različitih osjećaja, od onih da sam poželjela jednoga gospodina, također, skratiti za određeni organ, do toga da sam poželjela nastaniti se u tome selu. Kako je to moguće? E, pa, navikle se mi da na ovome svijetu ima luđaka, i vjerujte da se s tom činjenicom najteže nositi, svatko od nas pokušava ostati normalan koliko god može, pogotovo zato što ostanemo li i same jednom bez zdravoga razuma, sve te životinje koje ovise o njemu nikada nećemo uspjeti spasiti. A meni to, vjerujte, najčešće ponavljaju, jer se jako uspijem naljutiti, ostati bez daha pred zločinima za koje su ljudi sposobni, i tako i ja umjesto da skratim nekoga za glavu, i danima ne spavam od prizora koji se guraju pod kapke svaki puta kada ih sklopim, pokušavam sve više boriti se ovim dozvoljenim sredstvima, i vjerovati da za svakoga postoji „nagrada“ i nagrada. Inače će te me sretati po gradu u razgovorima s izmišljenim prijateljima, i držati se na distanci ;)",
+      "content3": "I tako, odlučismo Zrinka i ja napisati prijavu protiv nepoznatoga počinitelja koji je u posljednja2 mjeseca odrezao repove9 mačaka. Dočekaše nas predivni ljudi koji u svome dvorištu imaju psa Bobija,4 mace, pa čak i koku koja ne može na noge, ali uživa prve zrake proljetnoga sunca na dvorištu pa dok „joj Bog da“, jer kaže gospođa „grijeh je ubiti“. I tu se već zaljubih u gospođu i njenoga muža koji skromno žive obrađujući baštu, skupljajući orahe i pletući tašne za pijac. Kroz plač me milion puta pita, za redom: „tko to može učiniti ovako nevinome biću“ dok njen muž drži macana koji je srećom preživio atak mu na rep, i koji i dalje ima vjere u ljude. Odvodi nas dvije kuće dalje u kojoj, opet, žive prekrasni ljudi i oni nam svoga mačka pokazuju i mjesto na njegovoj guzi gdje je nekada stajao rep. Pitamo ih znaju li tko je to mogao učiniti, djevojka iz treće kuće iste ulice (čiji mačak također nosi samo pola repa u spomen na ljudsku okrutnost) odgovara: „znamo tko je, komšija od preko puta, čiji otac je vješao pse koji bi pobjegli iz komšijskih kuća, živi sam i mrzi životinje, ali ne možemo ništa dokazati, sve se to dešava preko noći“. I tako posjetismo sedam kuća, i u svakoj kući dočekaše nas dobri ljudi koji su svi redom (tu se zapanjismo) spremni na sudu posvjedočiti.",
+      "content4": "Inače, kada nam ljudi prijavljuju slučajeve zlostavljanja ili zanemarivanja životinja skoro nitko nije spreman obraniti tu sirotu životinju i na sudu svojim svjedočenjem, pa nama ne preostaje mnogo toga u takvim situacijama. Svi se, znate već, ne žele „svađati s komšijama“ a ne shvaćaju da to što su meni prenijeli informaciju koja meni remeti snove ne znači baš ništa osim ako to ne žele reći na glas i samo tako mogu, zapravo, pomoći. U posljednjoj kući dočekuje nas čika Viktor s kojim se nadglasavamo preko kapije ne bi li nas pustio unutra da i njegovu priču zabilježimo kao dopunu prijavi, i nakon zapisivanja cijeloga iskaza i nakon što smo pretražili pol imanja ne bili smo fotografirali nedostatak repa i u njegova Micka, kaže meni čika Viktor: „jel ti to imaš tetovažu na ruci?“ i nakon što odgovorih potvrdno ponosno pokazujući logo nam udruge tetoviran mi preko podlaktice kaže on meni „a pogle ovo“ i zamoli me da mu pomognem spustiti malo košulju s ramena i nasmiješi mi se crtež mačorćiča sa zgužvane sedamdesetosmogodišnje kože i reče mi čovjek kroz suze: „ovaj mačak mi je spasio život, probudio me da ne iskrvarim nakon operacije, tapkao mi je šapama po grudima dok nisam otvorio oči i shvatio da se gušim u vlastitoj krvi. Tog dana zakleo sam se sam sebi da će on živjeti dokle i ja. Njega već dugo pod ovim suncem nema, ali na mojoj koži biti će dokle god mene pod zemlju ne spreme, a zahvaljujući njemu nauživo sam se života.“ I tako nakon čika Viktora i naših domaćina svaka sa poklonjenim cekerom u ruci kao darom od dobrih ljudi koji vole životinje uputismo se kući. Kokica je već umorno dahtala sjedajući u Kediku jer je ona opet potvrdila da je prava seoska đukeletina koja bi radije hajcala po tuđim dvorištima i svađala se sa komšijskim psima nego odmarala u hladu gradskoga stana iščekujući šetnje oko naselja (pa nije ni luda, zar ne? ;) ) Zrinka je već slagala na glas prijavu, i opet se čudila kako je prava sreća naići na ovakve ljude koji su spremni posvjedočiti, i koji su hrabriji od ogovaranja ili mogućih svađa. I ja mislim baš na to, kako konačno u jednoj od epizoda zbog kojih gubim živce, postoje glavni likovi koji zaista žele zaštititi jadne životinje, kako to nisu ljudi koji će reći kako oni ne žele da se zna da su nas oni zvali, pa poslije pred seoskom birtijom padali, opet, u nesvijest slušajući kako komšijski pas opet trpi batine vezan na metar lanca i zna kako mu nitko nikada neće doći u pomoć, jer se ti ljudi „koji imaju srca“ nikada neće naglas usprotiviti njihovome čovjeku. I kako će prolaziti samo njegovi dani u samo njegovoj muci. Dok ne umre. Pa njegov čovjek opet ne „nabavi“ novu žrtvu. Novoga psa. A taj neki „sa srcem“ će slušati muke i toga psa i imati opravdanje za svoj kukavičluk, jer božemoj, tko ne bi razumio da je njemu neugodno posvađati se sa komšijom. Jel da?",
+      "content5": "Ovaj text posvećen je svima onima čiju muku slušaju svi, baš svi, čije uši žive u radijusu njihovih patnji."
+    },
+    {
+      "id": 10,
+      "content": "Pamtiti ću, sigurno, oči Jer nisu stigle dobiti boju očiju njene majke, boju očiju odrasloga psa. mogla se zvati Maza, mogla je biti nečija Mrvica, Kokica.. Mogao ju je netko zvati svojim Srcem. Mogla je porobiti sve gradske livade, svađati se s komšijskim psima preko ograde. Mogla je imati crvene zdjelice, voljeti jesti jabuke, mrziti kišu i imati kabanicu. mogla je imati tu veliku, najveću stvar – život. Nije. Inače ne bi bilo ove priče.",
+      "content2": "Umrla je u mome krilu, u kediki, 237. par minuta iza podneva. Mogla bih vam sada pisati kako je tih nekoliko minuta iza podneva svirao tužni, najtužniji fado na svijetu iz kedikinih zvučnika, Kako sam joj rekla da sada sigurno ide na bolje mjesto (i to je  bila utjeha za mene, ne za nju) I kako mi je srce puklo. I kako sam sjedila još neko vrijeme nepomično nadajući se nekom čudu, odnosno poželjeh da taj grč kojim joj je posljednji dah počastio to maleno tijelo čiju sam težinu jedva osjećala u krilu, bude zapravo borba za idući.5.obljetnica se bliži mome prvome posjetu Azilu i u tih nepunih pet godina pamtim skoro sve odrasle pse, a brojka je impresivna (ponekad stanem i nevjerujem ) pa čak i mome matematički neinteligentnome umu. Kia je umrla i plakala sam ne zbog njene smrti nego zbog njenoga života, za Lajkom Sonja i dandanas plače, Snoopy mi se još uvijek priviđa, a Janja nam je svima izlomila srce. Onu noć kada je umrla, baš u tome trenutku padale su najveće pahulje koje u životu vidjeh. punih, i samo, deset minuta pomislih da se Janja oprašta od nas.",
+      "content3": "Azilske bebe sam uvijek izbjegavala. Nakon samo nekoliko dolazaka Zrinka i ja smo pokupile (iz tada hororistične slike Azila)3 bebe, tako malene da je svima bilo jasno da su tada mogli u onome blatu biti samo pojedeni ili mrtvi od neke bolesti. Puna3 dana povraćali su i srali krv po cijelom našem stanu (na veliko veselje jednoga osječkoga veterinara koji nam je bez imalo grižnje savjesti otimao novce  dajući nam povratno za iste (valjda jedino što je naučio na fakultetu) –lažnu nadu. Posljednja (za koju smo se jako nadale da će preživjeti) curica umrla mi je sklupčana na vratu, u snu (mome). Od tada izbjegavam čak i boxeve sa štencima u Azilu. Uvijek, vjerujte, ima najviše kandidata/kinja baš za druženje s najmanjima, i tu uvijek imam prostora za eskivaciju. I opet me, nanovo, uspije zašakirati, koliko gospođa Smrt nije ništa nježnija s najmanjima i najslabijima i koliko ih ima na svome spisku za vožnju. Jer ljudi koji prave spiskove i pomažu navedenoj gospođi da operira po ovome svijetu su vrlo darežljivi i široke ruke kada se radi o tuđoj „velikoj stvari – životu“. Za svoju veliku stvar itekako bi stisli šupak.",
+      "content4": "E, vidite to me ljuti. I nakon suza uvijek krene ljutnja, pa mi se nađe netko na putu (a takvi mi se nalaze na istome po nekoliko puta na dan) tko (zamislite)  - „ima kuju sa7 štenaca“. Pa siroče ne zna što bi i kud bi s njom pa nek ih mi uzmemo da ih on „ne mora ubit“. Pa je gospođa shvatila nakon3 godine (tempu razmišljanja se ne čudim jer netko tko takve ideje dobije nije brz u glavi, to sigurno) suživota sa svojim psom, da NJEMU (zamislite nesebičnost u te gospođe) nije zapravo, uopće dobro s njom, znate – nije to baš pas za nju i najbolje bi (opet, za njega, jel) bilo da on dođe kod nas, u Azil jer će mu „tamo sigurno biti puno ljepše“. Onda zove tip koji je kupio boxericu, koja ima displaziju kukova, i malo je sitnija rastom u odnosu na svoju vrstu(!), i sad proizvodnja trpi i njegova investicija svakim danom izgleda sve uzaludnijom, jer on (to on meni priča, znate) – kupuje i hranu, i cijepio ju je i čipirao, pa nek mu mi barem pokrijemo barem dio troška, kada je on dovede (nitko, naravno, ne pita, imamo li mi mjesta uopće u tome Azilu, šta psi jedu, uspijevamo li mi uopće spojiti kraj s krajem. Spavamo li..). Kada bih mogla, umjesto da pokušavam objasniti životne činjenice nekome čiji IQ debelo konkurira broju smiješaka na mome licu tijekom našeg razgovora, i umjesto što se vječito trudim spasiti nečiji život telefonskim razgovorom (pritom ne mislim na život dotičnoga nego na boxericu) kada već ne mogu uzeti je. E kada bih mogla, barem jednom, reći ono što poželim svaki puta – to bi zvučalo ovako: Slušaj me, ti samodopadni, arogantni, maloumni imbecilu! (uh, već mi je lakše :) ) Tko si ti da pomisliš da uopće imaš prava raspolagati tuđim životom? Na osnovu čega misliš da imaš prava kupiti, posjedovati i iskorištavati drugo svjesno i osjećajno biće? Tko si ti da držiš njen život u svojim rukama, da TI odlučuješ kada i s kim će se ona pariti, a kada ja spomenem kastraciju ti spominješ prirodu? Ti pričaš o prirodi, a sam je siluješ, uzimaš djecu majci i zarađuješ na njima? Zbog tvoje „velike investicije“ u nju, u vidu hrane, cijepljenja i čipiranja ti se se morao odricati čega? Runde za lokalne istomišljenike zavaljene u birtijske fotelje, koji prebacuju kanale u potrazi za malo nogometa ili kojom zgodnom ženskom?(jesi li tamo dogovarao i mužjaka za nju? Ti veliki poborniče prirode)   Morao si, siroče, preskočiti čip u kladionici? Znam! Htio si nove felge za svoj auto! I jbg, ostade ti i bez felgi i bez para, jer „vražja kuja“ nije dobra. „ne valja joj nešto s kukovima“ kažeš, pa „je neću moći pariti“. 'uzmite je vi' dodaš, i još mi kažeš kako je i eutanazija skupa pa je se zato želiš „riješiti“. Oh, kako želim da ne postojiš na ovome svijetu. Ti i svi takvi kao ti, koji će te mi uputiti milijarde telefonskih poziva, Računajući s time kako ste obavili tim pozivom „sve što ste mogli“ za te pse.",
+      "content5": "A ja ću moći samo misliti na te vaše pse jer su moji resursi ograničeni. I dalje ću stavljati štence u svoje krilo da barem posljednjih trenutaka osjete toplinu istog, tog jedinog dozvoljenog im u životu. I ja ću pamtiti te oči, jer ti, i tebi slični mislite kako kastracija nije prirodna. Jer ti ne znaš da li smrt boli. I tebi je „jedan ko nijedan“. Da, i to si mi rekao u jednom od tih milion razgovora preko službenog telefona. Pitam se, baš svaki puta, a ovoga puta pitam i tebe: Da je TVOJ život u pitanju, bi li isto bio tako bahat i lake ruke?"
+    },
+    {
+      "id": 11,
+      "content": "Huh. A je, opet je huh, šta da vam kažem ;) Opet je napornih mjesec dana iza nas, (mislim da je taman negdje tolko odvezla naša Kedika od zadnje priče) svašta se izdešavalo pa skoro i to da smo i našu Valentinu (volonterku) vozili Kedikom na porod ;) Al nismo – jer Valentina je, lijepo, cijelu subotu provela u Azilu, farbala, šetala pse, lijepo došla žena kući – sredila već postojeću djecu, okupala se i – ošla rodit! ;) Tu noć rodila se, ko zna, možda i buduća precjednica udruge – Petra ;)",
+      "content2": "Istu noć smo našli i Stevu, i to ispod Azila nekih 300tinjak metara; eto - petstotinačetiristoosamdesetpetu žrtvu auta (zapravo, manijaka koji se krije iza tog auta). Dok je Stevi, u vet. ambulanti Doolitle dijagnosticirana teška povreda kičme u Azilu je Snjeguljica (jedno od4 šteneta izbačena kod katakombi) počela klonuti, što i nije bilo preveliko iznenađenje jer su joj sestra i brat, nakon što smo ih2 dana tražili u grmlju oko Azila (jer ih je netko samo parkirao ispred Azila, ispred ceste, jednu noć) umrli, od dehidracije, gladi i smanjenoga imuniteta. Bebe stare svega2 mjeseca. Istu noć oboje su doveženi kod jednog našega volontera gdje smo cijelu noć pazili da infuzija dobro ide, da im damo volje pa da požele poživjeti.. Snjeguljica se ujutro ustala sama, al Stevo nije. On se početkom tjedna  vozio na veterinarski u Zg gdje su ga odmah sutradan operirali. I sada,2 tjedna kasnije (baš sutra idemo po njega u Zg) Stevo je ok, o njemu se brinu naše prijateljice iz Noine Arke („kao da je naš“), pred njim su mjeseci vježbe ne bi li jednom uspio prohodati. Tu, veliku, veliku, stvar mu želimo. Ne da kroči na mjesec, ne da planinari, niti da skače bungie. Nego da jednom sam uspije do svoje zdjelice dohodati. Samo to. Stevina operacija košta nas malo više od 6000 kn, a do sada smo skupili samo 1700, jer šta da vam kažem – kada me nazvala dr s veterinarskog, rekla koji je trošak operacije (nakon što su ga pregledali) šta sam mogla reći ? – joj, sori, nemamo mi tih novaca? Računala sam na dobre ljude, i još uvijek računam, šta da vam kažem? Nemamo drugih resursa, osim vas. Snjeguljica je sada super, hranimo je i debljamo ko nespašeni, ne možemo dočekat da izgleda onak..punaškije, jel ;) Al je predivna, skoro sam si4.og kera kuć dovela ;)",
+      "content3": "Isti vikend nazvale su nas i naše prijateljice iz Vukovara, iz Daj Šapu da su našle Janu i nemaju di s njom. Naša Linda odmah se ponudila biti privremenom udomiteljicom bude li se Jana dobro s Nalom njenom slagala. A Jana onaka bolesna nije niti pogledala Nalu, samo se zavukla ispod stola i strpljivo svaki dan odlazila čika doktoru na previjanja. Još samo da joj nađemo nekoga da joj, generalno, vrati vjeru u ljude i biti će ona super! A onda me jedno popodne Klara nazvala i rekla da su Ina i Katarina koje odrađuju provjere udomljenja došle u Azil i da imaju lošu vijest. Srce mi stalo. I kad je rekla… …srce mi puklo. Naša Martina, naša ljepotica, čija je stranica kalendara BAŠ, UPRAVO, ova, ovoga rujna, bila je mrtva već2 mjeseca. Umrla je od piroplazmoze. I ono što taj dan nisam mogla podnijeti je da je umrla prije onoga…onoga..čije ime niti ne zaslužuje da se pored njenoga pojavi, u istome textu. E, i ja bih voljela da tamo di je sad trčkaraju oko njega psi, al ne njegovi šnauceri nego ovi naši azilski koji bi mu, sigurna sam „lijep“ doček pripremili. Onaj zasluženi.",
+      "content4": " Azil je sve ljepši. To vam moram reći (ako dugo kod nas niste bili). Sve je šareniji, veseliji, čišći (kad pravimo generalku, to više ne traje tjedan dana, nego u jednom danu pukne sve ;)) Sve su sretniji psi koji u njemu žive. Naravno, ono što je cilj, je da budu još sretniji kada ODU od nas. E, tu se mi razlikujemo od mnogih „skloništa“ u Hrvatskoj. Jebiga, zakon nam je svima dao isto ime – SKLONIŠTE. A vi meni objasnite kako možeš dovesti u sklonište psa, i onda ga ubiti nakon 60 dana? Od čega ste ga onda sklonili? Da, takva vam je lijepa naša – od 23 registrirana skloništa samo nas6 ne ubija pse. I onda, nas financirate vi, njih financiraju gradovi. I onda, kada ja kažem – operirajte Stevu, moram pitati vas za pomoć. I tako, vi i mi ćemo boriti se da Stevo hoda, a Grad će platiti ubijanje jedno 30ak pasa u isto to vrijeme",
+      "content5": "Logika? Nema logike. Dobrota je stvar koja nasumično, izgleda, pogađa. Stevu, Snjeguljicu i Janu je pogodila. Žao mi je svih onih koji su se našli u krivo vrijeme na krivome mjestu, i onda jednom zauvijek nestali, odveženi kedijem, ali ne našim nego onim na kojem piše Veterinarska stanica Vetam. Samo rijetki od njih dobili su prliku, iako imaju zdrave noge. I volju. I srce. Da nekoga zavole. O tome razmišlajte -  siti, napijeni, u toplom, dok sjedite pred svojim laptopima, kompjuterima i ostalim bogorodnim stvarima. Onima koji nemaju niti prve tri stvari sa tog spiska značiti će. Ako jednom učinite nešto za njih. Ili za njihovog brata Stevu. "
+    },
+    {
+      "id": 12,
+      "content": "Kedika je živ! O jea! Ne samo da je živ, nego je uspio po ovoj klizavoj cesti proteklih dana čuda radit, pa tako i do Kotline stići. A Kotlina vam je (za one koji ne znaju, moram priznat da sam i sama bila u toj grupi sve do jučer) odmah par kilometara iza Kneževih Vinograda, a za one koji ne znaju ni gdje je to, e to vam je u Baranji, nekih 50ak kilometara od našega Azila.",
+      "content2": "Znate već, jel da, koliko smo u konstantnoj potrazi za privremenim, makar, udomiteljima, jer brojka pasa koja čeka na spašavanje nije nimalo proporcionalna onoj - pasa koji budu udomljeni iz Azila, tako da je kapacitet naš, zapravo, najveći problem. Vidite, to vam je tako kada vodite No Kill sklonište pa ne pravite mjesta na taj način (znate, iz toga proizlazi naša, opravdana, nevjerica kada vam netko opravdava rad drugog skloništa koje NIJE deklarirano kao No Kill i koje s kapacitetom od max 60 pasa kao ne ubija pse, kao sve su ih udomili, kao mjesecima su neki psi tamo..aha…nemojte nam pričat).",
+      "content3": "I tako baš prije negoli je kapnula ona kap koja prelije čašu (onaj dan u kojem dobijemo dojave za 30ak štenaca i ne znamo kud bi snjima) u inbox nam se javi Atila koji nam ponudi privremeni dom za5 štenaca. Is, da je više takvih ljudi.. Krenusmo u Kotlinu, jer tamo Atila i njegova obitelj žive, i popesmo se uz mali brijeg do njihove kuće, one u kojoj je već čekao pripremljeni box i rečenica „koliki su? Ako su baš mali, biti će u kući“ Vadimo 4 seke i jednoga bracu iz Kedike i cijela obitelj zasjaji osmijehom od miliun dolara već na prvi kadar. Srce mi zapleše jer znam da sam upravo svoj folder „dobri ljudi“ nadopunila sa još nekoliko sličica. E, da, zbog te scene sam tu večer bila posebno nasmijana. (onak, od srca ;) ) Kroz nekoliko uvodnih rečenica saznajemo da ova obitelj već ima psa Picili (na madžarskom – Malena ;) ), i psa Maju (koju su prije2 tjedna udomili iz BM šinteraja) (sve su nam draži ;) ),3 mace (e hebiga, njihova imena nismo zapamtile) ali smo zapamtile pijetla imenom Dj Bobo :)).",
+      "content4": "Ostavile smo im bebice i vratile se nazad. Još sinoć, nekoliko sati po našemu odlasku javili su nam da jedna curica povraća. Jutros je s njom povraćao i dečko. Opet smo jutros upregli Kediku i on je za pola sata već parkirao pred njihovom kućom. Dobili su terapije, ako ujutro budu, i dalje, loše, krenuti će na infuziju. Zaista, sada kada su dobili svoju, prvu, šansu na ovome svijetu bio bi apsurd da ne dožive one ostele dobre stvari koje smo im namijenili.. Jutros smo se malkoc više podružili s tom obitelji. Toplina doma koja vas očara je fascinatna. Ti ljudi nemaju puno. A i to malo spremni su podijeliti s onima koji nemaju ništa. To je taj dio zbog kojeg ćete te ljude smatrati svojom rodbinom kada ih upoznate. Kroz priču saznali smo da su oboje nezaposleni (Atila zbog teške bolesti ne može pronaći posao), žive od svoje bašte i socijalne pomoći. A ipak su onaj profil ljudi koji će nas nazvati i ponuditi svoj skromni dom onima koji ga uopće nemaju. Saznajemo i da kujice Picili i Maja nisu kastrirane . Hvatamo se za glavu vrteći već dobro poznat scenarij po glavi, ali i njihov odgovor – „koliko to košta“ objašnjava sve. Ponudili smo pomoć, objašnjavajući da ima još dobrih ljudi, da ćemo ih obavijestiti sve koje znamo (a to ste vi), i da ćemo sigurno skupiti tih 500 kuna kako bi Picili i Maja i čitava ta dobra obitelj bili na miru (i mi skupa s njima ;) )",
+      "content5": "I eto, ako prepoznajete u tim ljudima dijelić svoje familije, I iako nemate puno a poželite to podijeliti s onima koji imaju manje od vas; Donaciju za kastracije Maje i Picili možete uplatiti na naš žiro udruge POBJEDE ; PBZ 2340009-1110405854"
+    }
+  ],
+  "blogArticle": []
+}

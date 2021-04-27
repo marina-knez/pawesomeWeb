@@ -1,0 +1,35 @@
+.main-content.content--adjust {
+    height: 50vh;
+    margin-top: 1rem;
+
+    @include desktop {
+        height: 60vh;
+        margin-top: 5rem;
+    }
+}
+
+.main-content__content {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.contact-list__item {
+    margin-bottom: 1rem;
+}
+
+.body-text--accent {
+    width: 100%;
+    background-color: map-get($colors, --clr-primary, 300);
+    color: map-get($colors, --clr-accent-purple, 300);
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 0.5rem;
+    text-align: center;
+
+    @include tablet {
+        width: 60%;
+        position: relative;
+        left: 20%;
+    }
+}

@@ -1,0 +1,128 @@
+body {
+    @include background("../../../src/assets/background-logo/bg-02.jpg");
+}
+
+main {
+    @include desktop {
+        margin-top: 3.2rem;
+    }   
+}
+
+.hero-slider {
+    position: relative;
+    height: 350px;
+    width: 100%;
+    margin: 1rem auto 2rem auto;
+
+    @include tablet {
+        height: 450px;
+    }
+
+    @include tablet-landscape {
+        height: 550px;
+    }
+
+    @include desktop {
+        height: 650px;
+        margin-top: 5rem;
+    }
+}
+
+.hero-slider-list__item-img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    object-fit: cover;
+}
+
+.hero-slider__track-container {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-slider-list {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    height: 100%;
+    transition: transform 250ms ease-in;
+}
+
+.hero-slider-list__item {
+    position: absolute;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    animation: slide 30s ease infinite;
+    float: left;
+}
+
+.hero-slider-list__item:nth-child(2) {
+    left: 100%;
+}
+  
+.hero-slider-list__item:nth-child(3) {
+    left: 200%;
+}
+
+.hero-slider-list__item:nth-child(4) {
+    left: 300%;
+}
+
+@keyframes slide {
+ 0% {
+    transform: translateX(0);
+ }
+ 35% {
+    transform: translateX(-100%);
+ }
+ 70% {
+    transform: translateX(-200%);
+ }
+ 100% {
+    transform: translateX(-300%);
+ }
+}
+
+.fa-chevron-left,
+.fa-chevron-right {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: map-get($colors, --clr-primary, 300);
+    width: 25px;
+    height: 25px;
+    padding: 4px 2px 2px 2px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.home-page__section {
+    text-align: center;
+    background-color: map-get($colors, --clr-primary, 200);
+    border: 3px solid map-get($colors, --clr-accent-purple, 300);
+    border-radius: 10px;
+    padding: 8px;
+    
+}
+
+.home-page__img {
+    margin: 0 auto;
+}
+
+.img--flex {
+    @include tablet-landscape {
+        display: flex;
+    }
+}
+
+.img--flex-width {
+    @include tablet-landscape {
+        width: 45%;
+        object-fit: cover;
+        margin: 1rem auto;
+    }
+}

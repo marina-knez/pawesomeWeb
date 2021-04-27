@@ -1,0 +1,44 @@
+.content {
+    margin: 1rem auto;
+    text-align: center;
+    
+    @include desktop {
+        margin: 4rem 5rem;
+    }
+}
+
+.content__main {
+    margin: 1rem;
+
+    @include tablet {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+    
+        & > * {
+            flex: 1 1 300px;
+        }
+    }
+}
+
+.content__title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: map-get($colors, --clr-accent-purple, 300);
+    text-align: center;
+}
+
+.content__details {
+    background-color: map-get($colors, --clr-primary, 200);
+    border-radius: 8px;
+    border: 5px solid map-get($colors,--clr-primary, 300);
+    margin-bottom: 1rem;
+
+    & p {
+        padding: 8px;
+    }    
+
+    @include tablet {
+        margin-bottom: 0;
+    }
+}

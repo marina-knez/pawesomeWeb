@@ -1,0 +1,21 @@
+.visually-hidden {
+  @include no-display;
+}
+
+.visually-hidden--desktop {
+  @include desktop {
+    @include no-display;
+  }
+}
+
+.visually-hidden--tablet-landscape {
+  @include tablet-landscape {
+    @include no-display;
+  }
+}
+  
+.visually-hidden--mobile {
+  @include phone  {
+    @include no-display;
+  }
+}

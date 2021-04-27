@@ -1,0 +1,151 @@
+.home-cart {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.45);
+    position: absolute;
+    top: 2rem;
+    right: -100%;
+    z-index: 2;
+    background: map-get($colors, --clr-primary, 300);
+    transition: all .5s;
+
+    @include tablet-landscape {
+        width: 50%;
+        top: -1rem;
+    }
+
+    @include desktop {
+        width: 45%;
+        top: -1rem;
+    }
+}
+
+.home-cart__title {
+    position: relative;
+    top: 1rem;
+    left: .5rem;
+}
+
+.home-cart__dog-list {
+    display: inline-block;
+    width: 95%;
+}
+
+.home-cart__dog-item {
+    border-bottom: 1px solid map-get($colors, --clr-accent-green, 100);
+    width: 92%;
+    display: flex;
+    flex-direction: row;
+    margin: 2rem auto;
+}
+
+.home-cart__dog-img {
+    height: 75%;
+    width: 78px;
+    float: left;
+    margin-left: 0.8rem;
+    margin-right: 24px;
+
+    @include desktop {
+        margin-right: 29px;
+    }
+}
+
+.home-cart__dog-description {
+    width: 100%;
+    margin: 0;
+}
+
+.home-cart__dog-name,
+.form-cart__dog-name {
+    text-transform: uppercase;
+    width: 100%;
+    margin-bottom: 8px;
+    padding-top: 1rem;
+    
+    & a {
+        text-decoration: none;
+        font-size: 14px;
+        line-height: 24px;
+        color: map-get($colors, --clr-accent-green, 100);
+    }
+}
+
+.home-cart__dog-details {
+    width: 200px;
+    color: map-get($colors, --clr-neutral, off-white);
+    position: relative;
+    left: 0;
+    margin-top: 6px;
+}
+
+.home-cart__icons {
+    margin-top: 3rem;
+    margin-left: 1rem;
+
+    @include tablet {
+        margin-left: 25%;
+    }
+}
+
+.cart-miscellaneous {
+    display: flex;
+    flex-direction: column;
+}
+
+.home-cart__close-button {
+    position: relative;
+    top: 1rem;
+
+    @include tablet {
+        right: 2rem;
+    }
+
+    @include desktop {
+        top: -2.5rem;
+        right: 2rem;
+    }
+}
+
+.home-cart__checkout-btn > a {
+    width: 300px;
+
+    &:hover {
+        color: map-get($colors, --clr-neutral, grey-100);
+    }
+}
+
+.form-cart {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 1rem auto;
+
+    @include tablet {
+        flex-direction: row;
+    }
+}
+
+.form-cart__data {
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+    margin: 1rem auto;
+}
+
+.form-cart__dog-img {
+    height: 75%;
+    width: 120px;
+    float: left;
+    margin-right: 24px;
+}
+
+.form-cart__dog-details {
+    position: relative;
+    width: 200px;
+    left: 0;
+    margin-top: 6px;
+}

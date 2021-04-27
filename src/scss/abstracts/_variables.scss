@@ -1,0 +1,28 @@
+$container-width: 1600px;
+$container-gutter: 8px;
+
+$colors: (
+    --clr-primary: (
+        100: rgb(235, 223, 197),
+        200: rgb(231, 215, 182),
+        300: rgb(205, 165, 117),
+        400: rgb(77, 38, 0)
+    ),
+    --clr-accent-green: (
+        100: rgb(219, 227, 128),
+        200: rgb(175, 167, 50)
+    ),
+    --clr-accent-purple: (
+        100: rgb(201, 88, 221),
+        200: rgba(142, 68, 155, 0.3),
+        300: rgb(142, 68, 155)
+    ),
+    --clr-neutral: (
+        off-white: #FFF,
+        grey-100: rgba(72,74,76,1),
+        grey-200: rgb(50, 51, 53),
+        dark: black
+    )
+);
+
+$ff-primary: "Arimo", sans-serif;

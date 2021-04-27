@@ -1,0 +1,59 @@
+.content__subtitle {
+    color: map-get($colors, --clr-accent-purple, 100);
+    text-align: center;
+}
+
+.content__list-title {
+    color: map-get($colors, --clr-neutral, grey-100);
+    font-weight: bold;
+}
+
+.content__list {
+    background-color: map-get($colors, --clr-primary, 200);
+    border: 2px solid map-get($colors, --clr-accent-purple, 300);
+    border-top: 5px solid map-get($colors, --clr-accent-purple, 300);
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+
+.content__list-item {
+    padding: 8px;
+}
+
+.paw--list {
+    color: map-get($colors, --clr-accent-purple, 300);
+    padding-right: 8px;
+    cursor: auto;
+
+    &:hover {
+        color: map-get($colors, --clr-accent-purple, 300);
+    }
+}
+
+.content--accent {
+    color: map-get($colors, --clr-neutral, grey-100);
+    font-weight: bold;
+}
+
+.margin--top {
+    margin-top: 1rem;
+}
+
+.bg--accent {
+    background-color: map-get($colors, --clr-primary, 200);
+    border-radius: 8px;
+    color: map-get($colors, --clr-accent-purple, 300);
+    font-weight: bold;
+    padding: 8px;
+    border: 1px solid map-get($colors, --clr-neutral, grey-100);
+}
+
+.content__contract-link,
+.blog-link {
+    color: map-get($colors, --clr-neutral, grey-100);
+
+    &:hover {
+        color: map-get($colors, --clr-accent-purple, 300);
+        font-weight: bold;
+    }
+}

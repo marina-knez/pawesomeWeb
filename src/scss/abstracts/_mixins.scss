@@ -1,0 +1,55 @@
+@mixin position ($position, $top, $right, $bottom, $left) {
+    position: $position;
+    top: $top;
+    right: $right;
+    bottom: $bottom;
+    left: $left;
+}
+
+@mixin absolute ($top, $right, $bottom, $left) {
+    @include position($top, $right, $bottom, $left);
+}
+
+@mixin ui-default-transition ($prototype) {
+    transition: $proptype 460ms cubic-bezier(0.7, 0, 0.3, 1);
+}
+
+@mixin no-display {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+@mixin list-reset {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+@mixin flex ($direction, $vcenter, $hcenter, $wrap) {
+    display: flex;
+    flex-direction: $direction;
+    align-items: $vcenter;
+    justify-content: $hcenter;
+    flex-wrap: $wrap;
+}
+
+@mixin background ($imgUrl) {
+    background: url($imgUrl)no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+@mixin container ($max-width, $gutter-width) {
+    min-width: 320px;
+    max-width: $max-width;
+    margin: 0 auto;
+    padding-left: $gutter-width;
+    padding-right: $gutter-width;
+}
