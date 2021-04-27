@@ -1,41 +1,11 @@
-# Babel Webpack Starter
+If You want to check out this pawsome web, please download the files and open with code. In Your terminal, type:
 
-A starter pack to build JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
+$npm install
 
-### Version
-1.1.0
+$npm start
 
-## Usage
+$npm run json:server
 
-### Installation
+P.S. Json server has been causing problems with POST requests (while all the other ones work perfectly fine) so sometimes the webpage doesn't work properly. If that happens, I apologize, check it out later or in a few days (I usually had to wait a few days for it to start working again).
 
-Install the dependencies
-
-```sh
-$ npm install
-```
-
-### Serve
-To serve in the browser  - Runs webpack-dev-server
-
-```sh
-$ npm start
-```
-
-### Build
-Compile and build
-
-```sh
-$ npm run build
-```
-
-## More Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### License
-
-This project is licensed under the MIT License
+P.P.S. The database for all the pets awailable has not yet been completed, however, in section "Bebe azila" it is complete, and also in section "Udomi me, živim u azilu" it is complete for the first 10 dogos. The database will at some point be complete. Until then, Your are still able to check how it works if You select one of the first 10 dogos to add to Your home cart.
