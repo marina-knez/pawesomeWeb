@@ -1,7 +1,7 @@
 {
-  "name": "babel_webpack_starter",
+  "name": "pawesomeWeb",
   "version": "1.0.0",
-  "description": "Starter pack for compiling ES6+ apps to ES5",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,8 @@
     "build": "webpack --mode production --progress",
     "json:server": "json-server --watch app/db.json"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "Marina Knez",
+  "license": "",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/polyfill": "^7.4.3",
